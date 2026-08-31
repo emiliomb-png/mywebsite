@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Student Name"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - bio.qmd
+      - resume.qmd
+      - blog/index.qmd
+
+  page-footer:
+    center: |
+      © 2026 Student Name
+    left: |
+      ![](/images/UniversityofPennsylvania_FullLogo_RGB.png){width=100px}
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false

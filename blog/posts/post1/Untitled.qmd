@@ -1,0 +1,13 @@
+---
+title: "My First Blog Post"
+date: 2026-06-16
+categories:
+  - personal
+  - data-science
+---
+
+![](figure1.png){width="500px"}
+
+This is my first blog post. Example $\LaTeX$ equation: $\frac{1}{2}\sum_{i=1}^nx_i$
+
+---

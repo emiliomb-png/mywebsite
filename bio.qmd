@@ -1,0 +1,28 @@
+---
+title: "About Me"
+---
+
+Write a short biography here.
+
+Include:
+
+-   Educational background
+-   Professional interests
+-   Technical skills
+-   Career goals
+
+## Education
+
+Master of Applied Economics and Data Science, University of Pennsylvania (expaceted 2027) Batelor of Science, University Name 2026
+
+## Interests
+
+-   Econometrics
+-   Machine Learning
+-   Data Analysis
+
+## Contact
+
+## student\@email.edu
+
+------------------------------------------------------------------------
