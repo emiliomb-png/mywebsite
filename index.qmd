@@ -10,11 +10,11 @@ title: ""
 ::: {.column width="65%"}
 ![](images/UniversityofPennsylvania_FullLogo_RGB.png){width="250px"}
 
-# Student Name
+# Emilio Marquez
 
-University of Pennsylvaina
+University of Pennsylvania
 
-Welcome to my personal website.
+Welcome to my personal website
 
 ### Quick Links
 
