@@ -21,7 +21,7 @@ Welcome to my personal website.
   <a href="https://github.com/USERNAME"><i class="bi bi-github fs-3"></i></a>
   <a href="https://www.linkedin.com/in/emilio-marquez-539618207/"><i class="bi bi-linkedin fs-3"></i></a>
   <a href="resume.qmd"><i class="bi bi-file-earmark-person-fill fs-3"></i></a>
-  <a href="mailto:student@email.com"><i class="bi bi-envelope-fill fs-3"></i></a>
+  <a href="mailto:emiliomb@sas.upenn.edu"><i class="bi bi-envelope-fill fs-3"></i></a>
 </div>
 :::
 :::::
