@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Student Name"
+  title: "Emilio Marquez"
 
   navbar:
     left:
