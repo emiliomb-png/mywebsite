@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Slutsky Equation"
+title: "Understanding the Welfare the Welfare Cost of Business Cycles"
 date: 2026-09-14
 categories:
   - personal
