@@ -2,24 +2,22 @@
 title: "About Me"
 ---
 
-Write a short biography here.
+I'm currently pursuing a Master of Applied Economics and Data Science at the University of Pennsylvania. I have 4+ years of experience working in economic consulting supporting complex commercial litigation and international arbitration across Latin America and the U.S., with a focus on valuation, damages quantification, and IP/antitrust disputes.
 
-Include:
+My experience includes applying economic modeling, econometrics, event study analysis and financial analysis to matters involving claims from USD 2M to over USD 100M. I also have experience working across the full litigation lifecycle, including discovery, expert report preparation, deposition, and trial support. 
 
--   Educational background
--   Professional interests
--   Technical skills
--   Career goals
+Technical skills: Python, R, Stata, Excel.
 
 ## Education
 
-Master of Applied Economics and Data Science, University of Pennsylvania (expaceted 2027) Batelor of Science, University Name 2026
+Master of Applied Economics and Data Science, University of Pennsylvania (expected 2027).
+Bachelor of Science, Economics, Universidad de los Andes (2022).
 
 ## Interests
 
 -   Econometrics
+-   Microeconomics
 -   Machine Learning
--   Data Analysis
 
 ## Contact
 
