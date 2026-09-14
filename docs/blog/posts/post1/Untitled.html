@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../../styles.css">
 </head>
@@ -153,8 +182,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="figure1.png" class="img-fluid" width="500"></p>
-<p>This is my first blog post.</p>
+<p><img src="figure1.png" class="img-fluid" width="500"> Recessions feel painful. People lose jobs, incomes shrink, families cut back on spending. So it seems that eliminating business cycles altogether would make society much better off. In 1987, economist Robert Lucas asked, if we could eliminate all the ups and downs in the economy (keeping only the long-run growth trend) how much would people be willing to pay for that?</p>
+<p>The answer was surprising: almost nothing. According to Lucas’ calculations, the average American would trade less than half a percent of their consumption to eliminate every recession and boom forever. This is the welfare cost of business cycles, and its surprisingly small size became a famous results in macroeconomics.</p>
+<p>The key insight is a distinction between the level of consumption and its variability. Business cycles don’t (in Lucas’s framework) change how much people consume on average. Instead they just make consumption bounce up and down around a stable trend. A recession is followed, on average, by a recovery.</p>
+<p>People dislike risk, but they dislike it because of diminishing marginal utility. Losing <span class="math inline">\(1,000\)</span> hurts more than gaining <span class="math inline">\(1,000\)</span> helps. So variability around a fixed average is costly, but only mildly costly, because the swings that make up actual business cycles are small relative to how much income grows decade after decade. Compare a typical recession which might reduce consumption by 2–3% for a year or two with long-term economic growth that raises consumption by a considerably larger magnitude.</p>
+<p>Economists measure how much a household would pay to avoid risk using utility functions like:</p>
+<p><span class="math display">\[u(c)=\frac{c^{1-\sigma}-1}{1-\sigma}\]</span> where <span class="math inline">\(\sigma\)</span> measures the risk aversion (the higher <span class="math inline">\(\sigma\)</span>, the higher the aversion to risk).</p>
+<p>If consumption fluctuates with variance <span class="math inline">\(\sigma^2_c\)</span> around a mean of <span class="math inline">\(1\)</span>, a standard approximation shows that the cost of business cycles, which is denoted as <span class="math inline">\(g\)</span> and can be thought of as the fraction of consumption a household would sacrifice to make consumption perfectly stable, is approximately:</p>
+<p><span class="math display">\[g\approx \frac{1}{2}\sigma \sigma^2_c\]</span> This formula carries the whole intuition. The cost scales with the variance of consumption, multiplied by how risk-averse people are. Since actual measured consumption volatility is small (<span class="math inline">\(\sigma^2_c\)</span> is on the order of a few tenths of a percent), even with fairly high risk aversion, <span class="math inline">\(g\)</span> comes out small (only a fraction of one percent).</p>
+<p>Lucas’s 1987 calculation landed at a pivotal moment. Since Keynes, much of macroeconomics had been built around the premise that smoothing business cycles through fiscal and monetary policy was the central task of the discipline. Lucas’s result flipped the priority, because if fluctuations barely matter for welfare, then the big prize is economic growth, not stabilization.</p>
+<p>The result may not appear intuitive at first. Recessions feel devastating, especially to people who lose jobs or homes. Lucas’s calculation, however, uses aggregate, average consumption, which is remarkably smooth even during recessions (most people keep their jobs and incomes even in bad years). But the pain of a recession is concentrated: unemployment, foreclosure, and bankruptcy hit a minority of households very hard, while the majority barely notice. Averaging across everyone hides this uneven distribution.</p>
+<p>Given these considerations, there have been decades of follow-up research. This research suggests that incorporating uninsurable individual-level risk, unemployment spells, effects of recessions on long-run growth, and the asymmetric nature of downturns all push the estimated welfare cost higher.</p>
+<p>As a result of these new observations, a more recent consensus on Lucas’s calculation is that, though not wrong, it could be narrow. Incorporating the idea that real business cycles are not necessarily smooth, symmetric, or evenly felt to Lucas’ estimation might shed new insights as to how households deal with economic downturns in a more precise way.</p>
 <hr>
 
 
