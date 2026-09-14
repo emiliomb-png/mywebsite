@@ -7,6 +7,8 @@ categories:
 ---
 
 ![](figure1.png){width="500px"}
+
+
 Recessions feel painful. People lose jobs, incomes shrink, families cut back on spending. So it seems that eliminating business cycles altogether would make society much better off. In 1987, economist Robert Lucas asked, if we could eliminate all the ups and downs in the economy (keeping only the long-run growth trend) how much would people be willing to pay for that?
 
 The answer was surprising: almost nothing. According to Lucas' calculations, the average American would trade less than half a percent of their consumption to eliminate every recession and boom forever. This is the welfare cost of business cycles, and its surprisingly small size became a famous results in macroeconomics.
