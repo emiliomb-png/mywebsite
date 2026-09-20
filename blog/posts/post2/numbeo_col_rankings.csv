@@ -1,0 +1,480 @@
+location,city_clean,country_clean,col_index,rent_index,groceries_index,restaurant_index,purchasing_power
+"Zurich, Switzerland",Zurich,Switzerland,118.5,70.6,115.4,121,164.4
+"Geneva, Switzerland",Geneva,Switzerland,116.5,65.1,114.3,121.8,158.5
+"Basel, Switzerland",Basel,Switzerland,112.4,49.6,110.4,114.9,183.7
+"Lausanne, Switzerland",Lausanne,Switzerland,111.5,55,108.9,116.2,163.7
+"Lugano, Switzerland",Lugano,Switzerland,110.1,47,107.3,125.3,153.6
+"Bern, Switzerland",Bern,Switzerland,110,46.8,107.3,110.2,174.4
+"New York, NY, United States",New York,United States,100,100,100,100,100
+"Reykjavik, Iceland",Reykjavik,Iceland,98.9,50.1,105.2,109.3,109
+"Honolulu, HI, United States",Honolulu,United States,98.2,63.9,114.8,99.9,96
+"San Francisco, CA, United States",San Francisco,United States,97.6,80.5,103.2,109.2,151
+"Tel Aviv-Yafo, Israel",Tel Aviv-Yafo,Israel,91.4,46.2,81.9,98.2,109.5
+"Seattle, WA, United States",Seattle,United States,90.3,60.2,98,95.8,165
+"Oslo, Norway",Oslo,Norway,90.2,39.3,90.7,99.1,110.8
+"Singapore, Singapore",Singapore,Singapore,87.7,73.1,77.3,55.5,105.5
+"London, United Kingdom",London,United Kingdom,87.5,70.1,68.9,89.7,117.5
+"Washington, DC, United States",Washington,United States,87.3,69,88.8,95.4,152.1
+"San Jose, CA, United States",San Jose,United States,86.4,73.1,90.2,86,136
+"Boston, MA, United States",Boston,United States,86.2,77.7,91.4,91.3,143.9
+"Charleston, SC, United States",Charleston,United States,86,58.2,96.3,101.8,118
+"Copenhagen, Denmark",Copenhagen,Denmark,85.7,46.1,78.3,99.9,136.9
+"Bergen, Norway",Bergen,Norway,85.6,29,84.5,98.3,126.9
+"Oakland, CA, United States",Oakland,United States,85.2,59.5,93.9,100.3,138.1
+"Trondheim, Norway",Trondheim,Norway,84.9,29.8,88,89.8,127.6
+"Ramat Gan, Israel",Ramat Gan,Israel,83.7,33.2,82.6,90.4,132.8
+"Berkeley, CA, United States",Berkeley,United States,83.5,67.4,97.8,77.4,166
+"Jerusalem, Israel",Jerusalem,Israel,83,40.2,74.5,90.2,110.7
+"Stavanger, Norway",Stavanger,Norway,82.7,37.1,84.3,89.5,134.9
+"Amsterdam, Netherlands",Amsterdam,Netherlands,82.6,60,71.5,91.8,129.9
+"San Diego, CA, United States",San Diego,United States,82,74.5,80.9,89.8,131.6
+"Anchorage, AK, United States",Anchorage,United States,81.5,36.9,87.9,85.4,145.1
+"Los Angeles, CA, United States",Los Angeles,United States,81.5,64.6,87.1,88.2,117
+"Aalborg, Denmark",Aalborg,Denmark,80.9,24.7,79.2,93.1,151.8
+"Luxembourg, Luxembourg",Luxembourg,Luxembourg,80.6,54.8,78.5,90.7,147.2
+"Haifa, Israel",Haifa,Israel,80,23.6,77.2,91.6,128.9
+"Irvine, CA, United States",Irvine,United States,79.6,69.9,84.2,85.9,145.5
+"Miami, FL, United States",Miami,United States,79.5,69,80.3,99.1,105.5
+"Haarlem, Netherlands",Haarlem,Netherlands,79.5,43.5,70.9,92.9,118.5
+"Sacramento, CA, United States",Sacramento,United States,79.2,47.3,87.1,73.1,133.5
+"Aarhus, Denmark",Aarhus,Denmark,78.9,33.2,71.1,95.6,148.4
+"Philadelphia, PA, United States",Philadelphia,United States,78.8,44.7,84.2,78.6,134.5
+"Stockholm, Sweden",Stockholm,Sweden,78.6,36.1,72.8,82,116.9
+"Paris, France",Paris,France,78.6,43.5,77.9,75.2,118
+"Arlington, VA, United States",Arlington,United States,77.5,62.6,89.1,80.8,177.6
+"Odense, Denmark",Odense,Denmark,77.3,23.2,74.3,103,163.3
+"Utrecht, Netherlands",Utrecht,Netherlands,77.3,44.2,68.8,79.6,143.7
+"New Orleans, LA, United States",New Orleans,United States,77.1,40.5,77.9,97.2,122
+"Dublin, Ireland",Dublin,Ireland,76.7,59.7,71.7,89.2,114.6
+"Espoo, Finland",Espoo,Finland,76.4,30.3,75.6,85.2,127.3
+"Petah Tikva, Israel",Petah Tikva,Israel,76.3,29.1,71.5,91,127.3
+"Oxford, United Kingdom",Oxford,United Kingdom,76.2,47.9,68,88.8,113.5
+"Jersey City, NJ, United States",Jersey City,United States,76.2,72.6,81.4,77.9,148
+"Munich, Germany",Munich,Germany,76.1,45.4,63.5,81.9,142.7
+"Chicago, IL, United States",Chicago,United States,76,55.2,82.6,81.6,157.6
+"Beersheba, Israel",Beersheba,Israel,75.9,16.1,74.6,83.8,126.2
+"Fort Lauderdale, FL, United States",Fort Lauderdale,United States,75.5,61.2,78.6,91.6,122.4
+"Guildford, United Kingdom",Guildford,United Kingdom,75.4,42.4,71.5,76.7,120
+"Atlanta, GA, United States",Atlanta,United States,75.3,44.2,84,84.1,160.6
+"Portland, OR, United States",Portland,United States,75.2,48.4,81.2,74.3,149
+"Hong Kong, Hong Kong (China)",Hong Kong,Hong Kong (China),75.2,63.1,75.1,51.1,91.6
+"Sydney, Australia",Sydney,Australia,75.1,53.8,79.2,69.6,117.1
+"Denver, CO, United States",Denver,United States,75.1,50.2,81.2,74.5,150.9
+"Strasbourg, France",Strasbourg,France,74.7,22.8,87.9,68.8,112.1
+"Rotterdam, Netherlands",Rotterdam,Netherlands,74.6,41.1,68.2,82.2,126.3
+"Brighton, United Kingdom",Brighton,United Kingdom,74.5,42.9,67.7,79.9,111.1
+"Helsinki, Finland",Helsinki,Finland,74.3,29.4,70.6,82.2,123.5
+"Delft, Netherlands",Delft,Netherlands,74.2,39.5,70.7,87.1,116.6
+"Frankfurt, Germany",Frankfurt,Germany,74,36.1,66.8,75.7,156.6
+"Cambridge, United Kingdom",Cambridge,United Kingdom,73.9,45.5,66.4,82.8,124
+"Vienna, Austria",Vienna,Austria,73.9,29.6,74,75,133.5
+"Marseille, France",Marseille,France,73.9,21.4,89.3,70.6,100.4
+"Dusseldorf, Germany",Dusseldorf,Germany,73.9,32.5,65.5,75.3,143.6
+"Brussels, Belgium",Brussels,Belgium,73.5,33.1,72,89.6,128
+"Nice, France",Nice,France,73.4,30.2,78.4,75.7,96.5
+"Heidelberg, Germany",Heidelberg,Germany,73.4,34.4,68.5,68.9,114.9
+"Gent, Belgium",Gent,Belgium,73.2,26.7,70.7,89.9,123.8
+"Milan, Italy",Milan,Italy,73.1,41.4,70.3,78.2,83.5
+"Edinburgh, United Kingdom",Edinburgh,United Kingdom,73,37.9,65.6,84.2,118.6
+"Colorado Springs, CO, United States",Colorado Springs,United States,73,40.1,76.5,77.2,137.9
+"Dallas, TX, United States",Dallas,United States,72.9,45.8,75.6,72.5,149.5
+"The Hague (Den Haag), Netherlands",The Hague (Den Haag),Netherlands,72.3,43.8,67.6,79.3,147.5
+"Lyon, France",Lyon,France,72.2,22.8,79.4,66.2,126.1
+"Cork, Ireland",Cork,Ireland,72.2,45.3,74.5,77.4,116.5
+"Galway, Ireland",Galway,Ireland,71.9,51.9,71.2,79.7,93.2
+"Hamburg, Germany",Hamburg,Germany,71.9,32.4,63.8,75.1,142.3
+"Baltimore, MD, United States",Baltimore,United States,71.8,36.3,79.8,72.7,139.3
+"Wiesbaden, Germany",Wiesbaden,Germany,71.7,26.3,65.9,76.9,131.2
+"Eindhoven, Netherlands",Eindhoven,Netherlands,71.7,36,65.5,79.1,139.8
+"Antwerp, Belgium",Antwerp,Belgium,71.6,24.3,67.6,89.4,119.1
+"Darmstadt, Germany",Darmstadt,Germany,71.6,28.8,68,71.4,137.1
+"Phoenix, AZ, United States",Phoenix,United States,71.6,39.7,75,77.9,139
+"Minneapolis, MN, United States",Minneapolis,United States,71.5,38.2,83.5,72.1,153.5
+"Buffalo, NY, United States",Buffalo,United States,71.5,31.5,73.9,79,125.4
+"Stuttgart, Germany",Stuttgart,Germany,71.5,30.1,66.6,72.4,144.2
+"Cologne, Germany",Cologne,Germany,71.4,29.1,66.5,71.7,130.9
+"Reading, United Kingdom",Reading,United Kingdom,71.3,40.4,62.5,83.7,124.1
+"Graz, Austria",Graz,Austria,71.3,20.3,72.7,71.6,124.5
+"Spokane, WA, United States",Spokane,United States,71.2,38.6,79.8,74.5,140.4
+"Canberra, Australia",Canberra,Australia,71.2,37.8,79.6,64.4,131.5
+"Leiden, Netherlands",Leiden,Netherlands,71.2,36.3,67.1,72.8,157.4
+"Bristol, United Kingdom",Bristol,United Kingdom,71.1,42.2,65.8,79.9,113.8
+"Augsburg, Germany",Augsburg,Germany,70.9,25.1,66.6,72.3,137
+"Essen, Germany",Essen,Germany,70.8,18.1,66.8,69.3,141
+"Melbourne, Australia",Melbourne,Australia,70.8,39.7,79.5,66.7,144
+"Saint Louis, MO, United States",Saint Louis,United States,70.7,29.5,85.3,67.9,156.8
+"Southampton, United Kingdom",Southampton,United Kingdom,70.4,34.6,64,82.8,119.1
+"Gold Coast, Australia",Gold Coast,Australia,70.4,41,79.5,72.6,119
+"Nashville, TN, United States",Nashville,United States,70.3,51.8,75.3,69.3,136.2
+"Pittsburgh, PA, United States",Pittsburgh,United States,70.2,35.2,79.5,66.1,146.4
+"Bordeaux, France",Bordeaux,France,70.1,23.2,75.4,71.3,126.2
+"Dortmund, Germany",Dortmund,Germany,70,19.9,67.2,65.6,148.3
+"Tampa, FL, United States",Tampa,United States,70,51.1,74.5,75.8,139.2
+"Manchester, United Kingdom",Manchester,United Kingdom,70,40.1,67.8,75.3,114.1
+"Berlin, Germany",Berlin,Germany,70,36.2,63,68.1,126.1
+"Malmo, Sweden",Malmo,Sweden,69.8,26.4,72.2,72.8,129.5
+"Charlotte, NC, United States",Charlotte,United States,69.8,45.2,79.3,67.2,139.5
+"Kiel, Germany",Kiel,Germany,69.7,20.2,70,68.9,131.2
+"Florence, Italy",Florence,Italy,69.5,31,73.1,75.3,75.9
+"Columbus, OH, United States",Columbus,United States,69.4,35.6,77.1,71.5,139
+"Bonn, Germany",Bonn,Germany,69.4,28.5,69.4,63.7,151.8
+"Brescia, Italy",Brescia,Italy,69.3,22.7,71.3,77.3,80.7
+"Toulouse, France",Toulouse,France,69.1,21.1,76.4,67.5,119
+"Richmond, VA, United States",Richmond,United States,69,36.3,71.9,78.8,149.9
+"Orlando, FL, United States",Orlando,United States,69,43.1,77,73.1,141.5
+"Indianapolis, IN, United States",Indianapolis,United States,69,37.5,71.7,74.2,145.9
+"Madison, WI, United States",Madison,United States,69,42,76.3,70.2,145.8
+"Nuremberg, Germany",Nuremberg,Germany,69,23.5,64.4,70.4,147.5
+"Dresden, Germany",Dresden,Germany,68.8,19.8,65.3,71.1,135.1
+"Karlsruhe, Germany",Karlsruhe,Germany,68.7,27.3,67.8,65.3,127.3
+"Gothenburg, Sweden",Gothenburg,Sweden,68.7,25.4,68,76.5,154.7
+"Victoria, Canada",Victoria,Canada,68.7,39.8,82.1,64.9,101
+"Groningen, Netherlands",Groningen,Netherlands,68.7,28,67.1,75,126.7
+"Birmingham, United Kingdom",Birmingham,United Kingdom,68.6,30.8,64.7,69.7,124.5
+"Turku, Finland",Turku,Finland,68.6,20.5,66.6,81.3,125.1
+"Uppsala, Sweden",Uppsala,Sweden,68.5,22.6,70.6,70.4,128.4
+"San Juan, Puerto Rico",San Juan,Puerto Rico,68.4,31.5,72.3,66.2,104.4
+"Leeds, United Kingdom",Leeds,United Kingdom,68.4,31.1,66.7,71.2,116.4
+"Bologna, Italy",Bologna,Italy,68.3,27.1,71,72.6,84.4
+"Mannheim, Germany",Mannheim,Germany,68.3,22.8,67.5,60.2,179.8
+"Bremen, Germany",Bremen,Germany,68.2,22.3,67.3,66.5,139.3
+"Seoul, South Korea",Seoul,South Korea,68.2,23,81.4,42.6,130
+"Adelaide, Australia",Adelaide,Australia,68.2,33.3,76.2,69.2,128.3
+"Perth, Australia",Perth,Australia,68,37.9,76,66.7,139.4
+"Hanover, Germany",Hanover,Germany,67.9,22.6,64.8,66.2,127.1
+"Glasgow, United Kingdom",Glasgow,United Kingdom,67.8,33.8,64.3,72.2,124.7
+"Raleigh, NC, United States",Raleigh,United States,67.8,41.5,75.5,71,150.4
+"Las Vegas, NV, United States",Las Vegas,United States,67.7,37.7,66.1,80.5,138.7
+"Newcastle upon Tyne, United Kingdom",Newcastle upon Tyne,United Kingdom,67.7,27.9,62.3,77.4,148.3
+"Oklahoma City, OK, United States",Oklahoma City,United States,67.5,28,67.8,74.7,141.9
+"Vancouver, Canada",Vancouver,Canada,67.5,48,76.1,69,111.8
+"Toronto, Canada",Toronto,Canada,67.5,40.6,71.1,69.2,121.2
+"Limerick, Ireland",Limerick,Ireland,67.4,41.5,72,70.4,119
+"Milton Keynes, United Kingdom",Milton Keynes,United Kingdom,67.3,35.6,59.4,70.9,123.4
+"Vancouver, WA, United States",Vancouver,United States,67.3,37.5,64.8,79.9,157.1
+"Leipzig, Germany",Leipzig,Germany,67.3,21.1,66.3,62.6,130.1
+"York, United Kingdom",York,United Kingdom,67.2,32.7,61.8,81.6,124.3
+"Cardiff, United Kingdom",Cardiff,United Kingdom,67,32.1,66.2,72.6,119.4
+"Bournemouth, United Kingdom",Bournemouth,United Kingdom,67,36.2,58,73.6,116.4
+"Fort Worth, TX, United States",Fort Worth,United States,66.9,37.5,70.5,65.6,152
+"Erlangen, Germany",Erlangen,Germany,66.8,23.5,68.8,61,193.7
+"Aachen, Germany",Aachen,Germany,66.8,20.2,64.4,61.6,140.2
+"Salt Lake City, UT, United States",Salt Lake City,United States,66.7,39.9,70.3,69.8,145.9
+"Boise, ID, United States",Boise,United States,66.7,36.5,70.2,71.7,151.9
+"Treviso, Italy",Treviso,Italy,66.6,23.4,63.6,76,77.8
+"Kansas City, MO, United States",Kansas City,United States,66.6,32,72.8,76.9,148.2
+"Lille, France",Lille,France,66.5,22.4,73.9,69.6,133.9
+"Austin, TX, United States",Austin,United States,66.4,50.3,68.6,73.5,158.8
+"Bolzano-Bozen, Italy",Bolzano-Bozen,Italy,66.2,24.4,60.6,73.3,101.3
+"Lethbridge, AB, Canada",Lethbridge,Canada,66.1,21.5,69.3,68.4,128.3
+"Liverpool, United Kingdom",Liverpool,United Kingdom,66.1,27.6,60.8,75.6,127.2
+"Belfast, United Kingdom",Belfast,United Kingdom,65.9,26.7,67.5,74.6,113.4
+"Villach, Austria",Villach,Austria,65.9,20.1,62.4,66.7,119.3
+"Grenoble, France",Grenoble,France,65.9,19.7,70.1,62.4,127
+"Milwaukee, WI, United States",Milwaukee,United States,65.7,35.4,73.2,66.8,140
+"Montpellier, France",Montpellier,France,65.6,21.9,75.2,61.5,118.7
+"Lund, Sweden",Lund,Sweden,65.5,23.9,68.2,69.7,134.1
+"Nottingham, United Kingdom",Nottingham,United Kingdom,65.4,26.3,64.8,66.4,129.2
+"Cleveland, OH, United States",Cleveland,United States,65.2,37.5,74.8,62.7,123
+"Tulsa, OK, United States",Tulsa,United States,65,26.2,71.6,64,137.1
+"Knoxville, TN, United States",Knoxville,United States,64.9,40.2,66.4,69.6,124.2
+"Brisbane, Australia",Brisbane,Australia,64.8,38.5,76.6,66.5,145.3
+"Coventry, United Kingdom",Coventry,United Kingdom,64.8,30.6,66.1,68.9,133.9
+"Tallinn, Estonia",Tallinn,Estonia,64.8,20,58.8,70.8,88
+"Saskatoon, Canada",Saskatoon,Canada,64.6,25,72.5,67.2,109.8
+"Jacksonville, FL, United States",Jacksonville,United States,64.5,34.5,69,74.4,145.5
+"Rochester, NY, United States",Rochester,United States,64.5,33.8,69.7,74.1,145.4
+"Calgary, Canada",Calgary,Canada,64.5,30.8,71.4,64.4,121.7
+"Kitchener, Canada",Kitchener,Canada,64.3,30.9,71.4,68.6,112.2
+"Padova, Italy",Padova,Italy,64.3,23.6,63.6,67.5,85.6
+"Tucson, AZ, United States",Tucson,United States,64,31.3,68.6,71.7,143.6
+"Trento, Italy",Trento,Italy,64,23.8,59.7,72.5,85.7
+"Limassol, Cyprus",Limassol,Cyprus,63.9,38,56.7,71,109.3
+"Houston, TX, United States",Houston,United States,63.9,42.5,65.8,72.2,159.8
+"Guelph, Canada",Guelph,Canada,63.8,35.5,69,67.5,121.7
+"St. John's, Newfoundland and Labrador, Canada",St. John's,Canada,63.8,22.8,72.2,63.7,120.4
+"Rome, Italy",Rome,Italy,63.4,34.9,64.9,63.5,84.3
+"Sliema, Malta",Sliema,Malta,63.3,39.8,62.6,71.9,71.4
+"Halifax, Canada",Halifax,Canada,63.3,34.8,74.9,62.3,106.7
+"Albuquerque, NM, United States",Albuquerque,United States,63.2,33.1,74.1,64.7,150.7
+"Kelowna, Canada",Kelowna,Canada,63.1,33.8,72.2,61.8,117
+"Sheffield, United Kingdom",Sheffield,United Kingdom,63.1,26.3,56.3,68.4,132.7
+"San Antonio, TX, United States",San Antonio,United States,63.1,36.2,66.9,63.4,158.2
+"Wellington, New Zealand",Wellington,New Zealand,63,31,69.1,60.1,119.4
+"Regina, Canada",Regina,Canada,63,24.9,71.4,69.4,117.3
+"Cagliari, Italy",Cagliari,Italy,62.9,21.2,65.8,72.3,80.5
+"Ann Arbor, MI, United States",Ann Arbor,United States,62.6,48.2,67.3,67.2,168.5
+"Auckland, New Zealand",Auckland,New Zealand,62.5,31.6,67,59.4,123.7
+"Cincinnati, OH, United States",Cincinnati,United States,62.5,37.7,67.7,59.5,149.7
+"Leuven, Belgium",Leuven,Belgium,62.5,29.7,59.5,69.6,138.2
+"Mississauga, Canada",Mississauga,Canada,62.4,40,64.1,61,112.9
+"Genoa, Italy",Genoa,Italy,62.3,20,65.8,65.9,91.6
+"Columbia, SC, United States",Columbia,United States,62.2,29.2,72.6,61.4,133.8
+"Edmonton, Canada",Edmonton,Canada,62.1,27.7,69.7,63.9,121.6
+"Dubai, United Arab Emirates",Dubai,United Arab Emirates,61.8,56.9,46.7,66.8,131.3
+"Trieste, Italy",Trieste,Italy,61.8,19.8,62.3,63.7,84.7
+"Ottawa, Canada",Ottawa,Canada,61.7,33.5,67.6,62.4,156.7
+"Bergamo, Italy",Bergamo,Italy,61.2,20,61.8,65.5,103.4
+"Quebec City, Canada",Quebec City,Canada,60.6,22.2,69,61.7,130.8
+"Turin, Italy",Turin,Italy,60.1,19.5,62.1,62,95.3
+"Madrid, Spain",Madrid,Spain,60,36.2,56.1,63.4,104.1
+"Valletta, Malta",Valletta,Malta,60,35.2,56,67.9,83.9
+"Montreal, Canada",Montreal,Canada,59.9,28.7,66.6,63.9,126.7
+"Winnipeg, Canada",Winnipeg,Canada,59.8,24.7,67.7,59,117
+"London, Canada",London,Canada,59.8,31.1,64.3,63.9,124.5
+"Reggio Nell'emilia, Italy",Reggio Nell'emilia,Italy,59.8,16.9,60.3,65.3,99.2
+"Prague, Czech Republic",Prague,Czech Republic,59.6,32,52.9,50.5,94.2
+"Christchurch, New Zealand",Christchurch,New Zealand,59.4,27,66.3,61.5,114
+"Remagen, Germany",Remagen,Germany,59.3,15.8,56.1,49.7,80.7
+"Barcelona, Spain",Barcelona,Spain,59.2,36,56,63.8,95.1
+"Naples, Italy",Naples,Italy,59,25.1,59,61.4,78.6
+"Palma de Mallorca, Spain",Palma de Mallorca,Spain,59,32,52.1,64.8,85
+"Hamilton, Canada",Hamilton,Canada,58.9,32.5,63.6,64.7,116.9
+"Split, Croatia",Split,Croatia,58.6,25.7,53.1,66.3,74.2
+"Huntsville, AL, United States",Huntsville,United States,58.5,30.9,63.8,62.3,169.8
+"Pisa, Italy",Pisa,Italy,58.2,20.2,61.6,57.4,97.3
+"Nicosia, Cyprus",Nicosia,Cyprus,58,21,54.5,59.6,85.3
+"Athens, Greece",Athens,Greece,57.9,18.2,55.1,62.9,66.1
+"Ljubljana, Slovenia",Ljubljana,Slovenia,57.4,27.2,52.8,59,85
+"Montevideo, Uruguay",Montevideo,Uruguay,57.2,15.2,57.2,59.9,58.6
+"Tartu, Estonia",Tartu,Estonia,57.1,15.5,50,66.6,96
+"Kingston, Canada",Kingston,Canada,56.8,31.6,62.1,62.6,130.4
+"Paphos, Cyprus",Paphos,Cyprus,56.6,27.6,52.3,58.9,96.7
+"Bari, Italy",Bari,Italy,56.4,20.8,57,58.1,94.7
+"Heraklion, Greece",Heraklion,Greece,55.3,16.6,53.9,53.3,62.2
+"Riga, Latvia",Riga,Latvia,54.9,14.5,48.4,59.6,82.3
+"Larnaca, Cyprus",Larnaca,Cyprus,54.7,24.1,52,52.3,87.9
+"Taipei, Taiwan",Taipei,Taiwan,54.7,19.6,67.6,36.1,81.5
+"Bilbao, Spain",Bilbao,Spain,54.6,26.5,50.6,62.1,106.3
+"Bratislava, Slovakia",Bratislava,Slovakia,54.5,22.9,52.9,49.9,82.1
+"Ras al-Khaimah, United Arab Emirates",Ras al-Khaimah,United Arab Emirates,54.4,21.9,49.5,50.9,95.7
+"Lisbon, Portugal",Lisbon,Portugal,54.2,38.6,50.1,53.1,60.9
+"Tokyo, Japan",Tokyo,Japan,54.2,25.8,62.9,35.4,117.8
+"Abu Dhabi, United Arab Emirates",Abu Dhabi,United Arab Emirates,54.1,42.3,45.6,60.1,119
+"Zagreb, Croatia",Zagreb,Croatia,53.7,20.2,51.9,54.7,98.4
+"Rijeka, Croatia",Rijeka,Croatia,53.6,16.7,49.4,56.9,79.4
+"Oviedo, Spain",Oviedo,Spain,53.6,17.7,53.3,58.4,111.4
+"San Jose, Costa Rica",San Jose,Costa Rica,53.5,21.7,60.7,49.3,45.4
+"Warsaw, Poland",Warsaw,Poland,53.5,28.5,46.4,52.5,98.9
+"Thessaloniki, Greece",Thessaloniki,Greece,53.4,14.2,50.3,61.1,62.7
+"Brno, Czech Republic",Brno,Czech Republic,53.2,22.6,50.7,43.6,93.4
+"Vilnius, Lithuania",Vilnius,Lithuania,53,20.1,45.9,58.3,96.3
+"Kaunas, Lithuania",Kaunas,Lithuania,52.7,13.6,49.7,59,84.1
+"Kosice, Slovakia",Kosice,Slovakia,52.2,23.4,51.2,48.7,75.5
+"Catania, Italy",Catania,Italy,51.9,14.6,46.7,56.5,112
+"Malaga, Spain",Malaga,Spain,51.4,30.6,49.4,58.3,84
+"Santa Cruz de Tenerife, Spain",Santa Cruz de Tenerife,Spain,51.3,25.2,52.6,54.7,93.9
+"New Taipei City, Taiwan",New Taipei City,Taiwan,51.1,17.4,62.5,25.5,75
+"Budapest, Hungary",Budapest,Hungary,51.1,20.3,47.8,50.5,84.9
+"Alicante, Spain",Alicante,Spain,50.9,22.2,51.8,53.7,105
+"Plzen, Czech Republic",Plzen,Czech Republic,50.8,15.2,50.9,42.6,114.7
+"Sharjah, United Arab Emirates",Sharjah,United Arab Emirates,50.7,22.8,41.6,38.3,132.2
+"Valencia, Spain",Valencia,Spain,50.6,28.6,46.2,58.9,111.6
+"Ostrava, Czech Republic",Ostrava,Czech Republic,50.5,16.8,50.7,43.6,92.6
+"Seville (Sevilla), Spain",Seville (Sevilla),Spain,49.9,21.8,52.3,50,98.8
+"Gdansk, Poland",Gdansk,Poland,49.7,21.6,42.1,51.8,97.1
+"Doha, Qatar",Doha,Qatar,49.7,43.2,42.2,52.9,123.7
+"Tirana, Albania",Tirana,Albania,49.5,18.3,49.6,49.7,45.6
+"Krakow (Cracow), Poland",Krakow (Cracow),Poland,49.5,22.4,41.9,50.9,102.8
+"Wroclaw, Poland",Wroclaw,Poland,49.4,21.7,42.3,51.4,92.8
+"Monterrey, Mexico",Monterrey,Mexico,49.3,23.7,53.8,49.9,53.2
+"Porto, Portugal",Porto,Portugal,49.3,29.6,46.5,47,68.9
+"Las Palmas de Gran Canaria, Spain",Las Palmas de Gran Canaria,Spain,49.3,22.8,53.6,47.4,93.8
+"Granada, Spain",Granada,Spain,48.9,18.6,47.1,49.9,108.1
+"Buenos Aires, Argentina",Buenos Aires,Argentina,48.8,16.3,46.6,63.1,45.4
+"Al Khobar, Saudi Arabia",Al Khobar,Saudi Arabia,48.5,15.9,42.8,42.7,110.6
+"Riyadh, Saudi Arabia",Riyadh,Saudi Arabia,48.4,25.5,45.7,39.2,119.5
+"Pecs, Hungary",Pecs,Hungary,48.3,13.4,48.7,44.7,57.4
+"Beirut, Lebanon",Beirut,Lebanon,48,20,40.1,48.2,33.3
+"Taichung, Taiwan",Taichung,Taiwan,47.6,12.5,62.3,27.2,88.4
+"Belgrade, Serbia",Belgrade,Serbia,47.6,21.5,42,52.3,65
+"Moscow, Russia",Moscow,Russia,47.5,34.1,40.7,47.3,81.4
+"Lodz, Poland",Lodz,Poland,47.3,15.4,40.9,49.9,98
+"Coimbra, Portugal",Coimbra,Portugal,47.2,20.9,47.8,42.5,75.8
+"Panama City, Panama",Panama City,Panama,47,27.6,53.7,43.5,45.8
+"Braga, Portugal",Braga,Portugal,46.6,21,46.3,43.8,71.2
+"Poznan, Poland",Poznan,Poland,46.6,19,39.7,47.3,105.3
+"Bucharest, Romania",Bucharest,Romania,46.3,15.6,42.9,53.4,85.4
+"Sofia, Bulgaria",Sofia,Bulgaria,46.2,18,45.2,47.1,96.1
+"Ajman, United Arab Emirates",Ajman,United Arab Emirates,46.1,56.6,35.3,38.8,81.1
+"Mexico City, Mexico",Mexico City,Mexico,45.9,28.1,49.9,48.6,48.6
+"Debrecen, Hungary",Debrecen,Hungary,45.7,15.5,45.5,44.3,71.1
+"Varna, Bulgaria",Varna,Bulgaria,45.5,13,46.9,45.6,72.5
+"Manama, Bahrain",Manama,Bahrain,45.3,22.3,41.8,46.5,121.2
+"Abidjan, Ivory Coast",Abidjan,Ivory Coast,45.2,22.3,41.3,40.9,12.5
+"Novi Sad, Serbia",Novi Sad,Serbia,45,14.3,41.3,45.3,62.9
+"Szczecin, Poland",Szczecin,Poland,44.8,16.7,39.2,43.7,101.3
+"Kuwait City, Kuwait",Kuwait City,Kuwait,44.7,23.3,34.8,57.5,123.6
+"Katowice, Poland",Katowice,Poland,44.7,15.6,41.6,46.1,101.6
+"Queretaro (Santiago de Querétaro), Mexico",Queretaro (Santiago de Querétaro),Mexico,44.6,18.3,50.7,42.9,57.1
+"Cluj-Napoca, Romania",Cluj-Napoca,Romania,44.6,17.4,42.4,49.1,83.6
+"Muscat, Oman",Muscat,Oman,44.3,14.8,42.3,40.8,111.3
+"Vladivostok, Russia",Vladivostok,Russia,44,16.7,40.4,43.4,53.6
+"Jeddah (Jiddah), Saudi Arabia",Jeddah (Jiddah),Saudi Arabia,43.9,13.9,39,35.9,134.5
+"Istanbul, Turkey",Istanbul,Turkey,43.8,21.8,41.7,46.8,59.8
+"Phuket, Thailand",Phuket,Thailand,43.7,23.7,48.8,38,29.7
+"Brasov, Romania",Brasov,Romania,43.7,17.2,40.5,49.6,67.9
+"Caracas, Venezuela",Caracas,Venezuela,43.5,14,49,45.8,19
+"Cordoba, Argentina",Cordoba,Argentina,43.5,10.5,42.1,43.7,40
+"Osaka, Japan",Osaka,Japan,43.5,18.1,50.4,29.9,125.9
+"Constanta, Romania",Constanta,Romania,43.4,14.8,39.6,52,62.9
+"Sarajevo, Bosnia And Herzegovina",Sarajevo,Bosnia And Herzegovina,42.8,12,42.7,37,66.4
+"Addis Ababa, Ethiopia",Addis Ababa,Ethiopia,42.6,22.1,45.9,24.1,11.3
+"Amman, Jordan",Amman,Jordan,42.5,9.8,37.7,45.4,48.5
+"Yerevan, Armenia",Yerevan,Armenia,42.4,16.8,37,42.5,35.4
+"Podgorica, Montenegro",Podgorica,Montenegro,42.3,16.7,41.1,43.5,72.1
+"Merida, Mexico",Merida,Mexico,42.2,15.2,45.7,43.9,36
+"Santiago, Chile",Santiago,Chile,41.9,14.1,43.6,44.7,57.7
+"Pretoria, South Africa",Pretoria,South Africa,41.6,13.3,33.8,32.4,102.1
+"Bangkok, Thailand",Bangkok,Thailand,41.4,19.6,45.2,29.2,50.9
+"Ad Dammam, Saudi Arabia",Ad Dammam,Saudi Arabia,41.3,12.8,41,29.8,132.4
+"Timisoara, Romania",Timisoara,Romania,41.3,11.7,38.5,46.9,90.8
+"Makati, Philippines",Makati,Philippines,41.2,23.6,41.4,32.2,42.7
+"Guadalajara, Mexico",Guadalajara,Mexico,41,20.1,45.8,42,45.7
+"Yekaterinburg, Russia",Yekaterinburg,Russia,40.7,16.2,37.8,42.5,58.5
+"Izmir, Turkey",Izmir,Turkey,40.6,14.4,41.8,36.6,61.4
+"Burgas, Bulgaria",Burgas,Bulgaria,40.6,12.9,42.2,43,72
+"Iasi, Romania",Iasi,Romania,40.5,11.7,39.1,41.2,75.7
+"Johannesburg, South Africa",Johannesburg,South Africa,40.4,13.5,34.9,38.5,108.9
+"San Salvador, El Salvador",San Salvador,El Salvador,40.3,21.7,43.9,34.3,23.5
+"Saint Petersburg, Russia",Saint Petersburg,Russia,40.3,18.9,37.4,37.2,74.5
+"Bursa, Turkey",Bursa,Turkey,40.2,10.6,40.2,35.5,85.7
+"Antalya, Turkey",Antalya,Turkey,40.1,12.9,38.4,40.7,67.4
+"Plovdiv, Bulgaria",Plovdiv,Bulgaria,40.1,11.8,42,39.1,79.3
+"Craiova, Romania",Craiova,Romania,39.9,11,37.1,39.7,78.6
+"Cape Town, South Africa",Cape Town,South Africa,39.6,21.4,35.4,38.2,103.3
+"Santo Domingo, Dominican Republic",Santo Domingo,Dominican Republic,39.4,15.4,38.6,37.6,40.4
+"Tyumen, Russia",Tyumen,Russia,39.2,14.5,37.9,41.4,57.5
+"Ankara, Turkey",Ankara,Turkey,38.9,14.9,39.2,39.3,63.9
+"Shanghai, China",Shanghai,China,38.8,23.2,38.1,26,96
+"Harare, Zimbabwe",Harare,Zimbabwe,38.7,11.9,37.4,37.8,29.6
+"Sibiu, Romania",Sibiu,Romania,38.6,12.2,36.5,43.8,86.5
+"Oradea, Romania",Oradea,Romania,38.3,8.8,37.7,40.1,74.6
+"Skopje, North Macedonia",Skopje,North Macedonia,38.1,9.5,37.2,32.6,65.5
+"Mersin, Turkey",Mersin,Turkey,38,9.2,39,30.5,76.9
+"Beijing, China",Beijing,China,38,23.5,37.3,24.7,93.7
+"Phnom Penh, Cambodia",Phnom Penh,Cambodia,37.9,13.7,44.6,31.1,25.1
+"Pattaya, Thailand",Pattaya,Thailand,37.9,15.9,42.5,26.7,32.9
+"Nis, Serbia",Nis,Serbia,37.7,8.7,35.4,34.9,67.3
+"Windhoek, Namibia",Windhoek,Namibia,37.4,15.2,35.6,36.4,72
+"Kuala Lumpur, Malaysia",Kuala Lumpur,Malaysia,37.4,13.8,44.7,29.6,103.6
+"Bali, Indonesia",Bali,Indonesia,37.3,32.8,49.1,22.9,12.3
+"Eskisehir, Turkey",Eskisehir,Turkey,37.2,10.5,39.8,32.7,87.7
+"Shenzhen, China",Shenzhen,China,37,18.9,39.4,24.2,109.1
+"Kazan, Russia",Kazan,Russia,36.9,13.2,35.5,35.2,63.1
+"Novosibirsk, Russia",Novosibirsk,Russia,36.8,12.3,35.6,33.3,60.8
+"Sao Paulo, Brazil",Sao Paulo,Brazil,36.8,16.4,37.3,33.6,53.4
+"Accra, Ghana",Accra,Ghana,36.6,11.4,42.4,39.1,12.7
+"Tbilisi, Georgia",Tbilisi,Georgia,36.6,16.8,35.5,40.2,40.6
+"Suzhou, China",Suzhou,China,36.6,10.7,40,31.4,104
+"Guayaquil, Ecuador",Guayaquil,Ecuador,36.6,11.6,35.1,35.9,41
+"Kaliningrad, Russia",Kaliningrad,Russia,36.5,11.2,36.6,34.1,61.1
+"Chisinau, Moldova",Chisinau,Moldova,36.5,15.8,33.8,34,56.2
+"Ufa, Russia",Ufa,Russia,36.3,10.4,35,38.3,61
+"Guangzhou, China",Guangzhou,China,36.2,13.3,42.5,22.9,106.1
+"Samara, Russia",Samara,Russia,36.2,11.1,32,37.4,54
+"Krasnodar, Russia",Krasnodar,Russia,36.1,12.2,32.5,35.7,61.8
+"Tangier, Morocco",Tangier,Morocco,36.1,11,37.4,28.9,37.8
+"Nizhny Novgorod, Russia",Nizhny Novgorod,Russia,36.1,13,33.7,38.7,58.7
+"Tomsk, Russia",Tomsk,Russia,35.8,10.7,36.6,28.7,57.5
+"Rostov-on-Don (Rostov-na-donu), Russia",Rostov-on-Don (Rostov-na-donu),Russia,35.7,11.3,33.5,37.6,65.9
+"Chelyabinsk, Russia",Chelyabinsk,Russia,35.5,10.4,34.7,32.4,51.3
+"Lima, Peru",Lima,Peru,35.5,14.3,40.2,29,47.3
+"Manila, Philippines",Manila,Philippines,35.4,16.8,40.9,26.8,35.3
+"Durban, South Africa",Durban,South Africa,35.3,11.4,32.1,32,101.6
+"Casablanca, Morocco",Casablanca,Morocco,35.2,13.3,35.9,30.3,43
+"Colombo, Sri Lanka",Colombo,Sri Lanka,35.1,10,50,26.6,18.7
+"Hangzhou, China",Hangzhou,China,35.1,13.3,38.6,24.8,102.5
+"Chiang Mai, Thailand",Chiang Mai,Thailand,34.8,10.6,43.3,21.2,55.5
+"Medellin, Colombia",Medellin,Colombia,34.4,14.5,34.2,30.2,39.4
+"Kuching, Malaysia",Kuching,Malaysia,34.4,8.1,42.3,25.8,51.4
+"Rabat, Morocco",Rabat,Morocco,34.4,13.1,35.5,30.3,56.1
+"Erbil (Irbil), Iraq",Erbil (Irbil),Iraq,34.2,9.8,32.5,36.2,46.2
+"Ulaanbaatar, Mongolia",Ulaanbaatar,Mongolia,34.1,18.6,37.8,26.1,42.1
+"Baghdad, Iraq",Baghdad,Iraq,33.8,10.9,29.7,31.4,50.4
+"Florianopolis, Brazil",Florianopolis,Brazil,33.7,13.7,30.6,32.7,56.5
+"Stara Zagora, Bulgaria",Stara Zagora,Bulgaria,33.6,7.3,34.8,33.1,105.6
+"Quito, Ecuador",Quito,Ecuador,33.6,10.7,36.8,33.3,52.9
+"Penang, Malaysia",Penang,Malaysia,33.5,8.4,42.2,23.8,88.4
+"Cebu, Philippines",Cebu,Philippines,33.5,12.2,41.1,23.1,30.2
+"Perm, Russia",Perm,Russia,33.3,11.2,34.2,29.5,64.7
+"Campinas, Brazil",Campinas,Brazil,33.2,10.6,34.3,30,49.3
+"Almaty, Kazakhstan",Almaty,Kazakhstan,33,15.7,31.9,35.5,55.7
+"Rio de Janeiro, Brazil",Rio de Janeiro,Brazil,32.9,11.9,31.7,30.1,37.8
+"Joao Pessoa, Brazil",Joao Pessoa,Brazil,32.9,7.7,29.7,26.6,40.4
+"Bogota, Colombia",Bogota,Colombia,32.8,12.5,34,28.5,39.5
+"Marrakech, Morocco",Marrakech,Morocco,32.7,9.2,32.5,30.5,49.6
+"Quezon City, Philippines",Quezon City,Philippines,32.4,8.8,38.8,20.9,44.7
+"Baku, Azerbaijan",Baku,Azerbaijan,32.3,11,30.9,36.4,45.1
+"Porto Alegre, Brazil",Porto Alegre,Brazil,32.2,9.1,32.2,29.8,41.9
+"Nairobi, Kenya",Nairobi,Kenya,32,11.1,33.5,30.3,35.3
+"Brasilia, Brazil",Brasilia,Brazil,32,11.2,30.9,31.1,58.7
+"Minsk, Belarus",Minsk,Belarus,32,11.8,31.5,35.3,70.6
+"Kiev (Kyiv), Ukraine",Kiev (Kyiv),Ukraine,31.9,13.7,32.2,31,58.7
+"Belo Horizonte, Brazil",Belo Horizonte,Brazil,31.6,9.5,29.7,27.6,40.4
+"Changsha, China",Changsha,China,31.6,6.6,38.4,21.2,106.6
+"Fortaleza, Brazil",Fortaleza,Brazil,31.5,7.1,29.5,28.8,43.4
+"Salvador, Brazil",Salvador,Brazil,31.1,9.4,29,29.9,34.4
+"Dnipro, Ukraine",Dnipro,Ukraine,31,10.3,28.7,36.6,44.3
+"Curitiba, Brazil",Curitiba,Brazil,31,9.3,29,28.1,50.3
+"Cali, Colombia",Cali,Colombia,30.9,11.2,32.8,25.9,40.5
+"Tunis, Tunisia",Tunis,Tunisia,30.7,6.5,36.2,19.4,37.8
+"Nanjing, China",Nanjing,China,30.6,11,33.8,21.7,107.2
+"Batumi, Ajara, Georgia",Batumi,Georgia,30.5,12.2,30.8,32.2,47.3
+"Cuenca, Ecuador",Cuenca,Ecuador,30.5,9.6,33.9,27.2,49.7
+"Wuhan, China",Wuhan,China,30,8.3,34,20.5,110.7
+"Davao, Philippines",Davao,Philippines,30,7.3,32.7,20.8,31
+"Asuncion, Paraguay",Asuncion,Paraguay,29.8,11.5,29.7,28.6,47.9
+"Jakarta, Indonesia",Jakarta,Indonesia,29.8,12.5,36.5,18.2,40.6
+"Astana (Nur-Sultan), Kazakhstan",Astana (Nur-Sultan),Kazakhstan,29.7,12.1,29.9,31.6,62.5
+"Odessa (Odesa), Ukraine",Odessa (Odesa),Ukraine,29.7,7,29.5,28.5,46.2
+"Lviv, Ukraine",Lviv,Ukraine,29.5,11,29.6,27.4,53.9
+"Tashkent, Uzbekistan",Tashkent,Uzbekistan,29.4,14.1,31.5,26.4,51.7
+"Algiers, Algeria",Algiers,Algeria,29.2,5.3,35.8,18.3,36.3
+"Recife, Brazil",Recife,Brazil,29.1,9.6,27.8,25.7,42.9
+"Dar es Salaam, Tanzania",Dar es Salaam,Tanzania,28.8,13.3,28,23,25
+"Bishkek, Kyrgyzstan",Bishkek,Kyrgyzstan,28.8,12.5,28.3,26.2,39.3
+"Pristina, Kosovo (Disputed Territory)",Pristina,Kosovo (Disputed Territory),28.8,8.4,29.9,25.5,66.4
+"Dushanbe, Tajikistan",Dushanbe,Tajikistan,28.6,11.3,36.2,20.6,36.2
+"Hanoi, Vietnam",Hanoi,Vietnam,28.4,9.8,34.1,18.5,46.1
+"Ho Chi Minh City, Vietnam",Ho Chi Minh City,Vietnam,28.2,12.9,32.4,16.7,42.5
+"Chengdu, China",Chengdu,China,28,9.2,33.7,20.9,108.7
+"Surabaya, Indonesia",Surabaya,Indonesia,27.8,12.1,35.9,14.5,30.1
+"Kampala, Uganda",Kampala,Uganda,27.6,11.7,29.4,25.4,18.7
+"Chongqing, China",Chongqing,China,27.2,7.7,33.7,20,107.2
+"Kharkiv, Ukraine",Kharkiv,Ukraine,26.9,5.5,27.3,24.8,51.7
+"Mumbai, India",Mumbai,India,26.3,18.5,25.8,24.6,61.2
+"Da Nang, Vietnam",Da Nang,Vietnam,26.3,10.8,31.6,16,36.5
+"Kigali, Rwanda",Kigali,Rwanda,25.9,15.8,24.3,22.9,24.7
+"Dhaka, Bangladesh",Dhaka,Bangladesh,25.3,3.8,29.4,19.9,39.3
+"Bandung, Indonesia",Bandung,Indonesia,24.9,5.6,34.3,13.8,31.9
+"Gurgaon, India",Gurgaon,India,24.7,8.9,26.9,23.3,94.1
+"Kathmandu, Nepal",Kathmandu,Nepal,23.8,3.9,24.6,18.2,31.2
+"Cairo, Egypt",Cairo,Egypt,23.2,5.7,23.4,22.6,23.4
+"Tehran, Iran",Tehran,Iran,23.1,11.4,22.3,16.6,24
+"Delhi, India",Delhi,India,23,7,23,22.9,72.2
+"Pune, India",Pune,India,22.8,7.3,25.9,21.2,128.7
+"Islamabad, Pakistan",Islamabad,Pakistan,22.8,5.8,19.2,19.9,37
+"Bangalore, India",Bangalore,India,21.9,9.4,25.4,19,116.6
+"Noida, India",Noida,India,21.9,5.8,24.7,17.4,113
+"Hyderabad, India",Hyderabad,India,21.7,6.3,23.8,19.7,154.4
+"Alexandria, Egypt",Alexandria,Egypt,21.6,3.1,22.6,18.6,19
+"Ahmedabad, India",Ahmedabad,India,21.2,4.4,24,20.3,67.4
+"Giza, Egypt",Giza,Egypt,20.9,4.7,20.4,18.1,20
+"Chandigarh, India",Chandigarh,India,20.9,4.8,22.6,17.6,70.7
+"Karachi, Pakistan",Karachi,Pakistan,20.8,3.6,19.7,17.6,26.7
+"Chennai, India",Chennai,India,20.7,5,24.6,15.5,110.7
+"Thane, India",Thane,India,20.7,7.7,21.5,19.7,48.8
+"Rawalpindi, Pakistan",Rawalpindi,Pakistan,20.6,4.3,21.4,16.8,24.8
+"Vadodara, India",Vadodara,India,20.6,3.7,23.6,15.1,77.7
+"Lahore, Pakistan",Lahore,Pakistan,20.3,3.6,17.9,19.7,26
+"Bhubaneswar, India",Bhubaneswar,India,19.4,3.9,22.5,14.7,60.7
+"Patna, India",Patna,India,19.4,2.6,20.4,16.1,60.3
+"Bhopal, India",Bhopal,India,19.2,3.4,23.2,16.4,63.9
+"Kolkata, India",Kolkata,India,19.2,4,23.3,14.7,69.9
+"Kochi, India",Kochi,India,19,4.5,23,13,74.1
+"Jaipur, India",Jaipur,India,19,4,21.2,15.4,75.5
+"Surat, India",Surat,India,18.7,7.2,22.1,16.4,55.8
+"Indore, India",Indore,India,18.4,4.3,21.2,13.2,69.1
+"Lucknow (Lakhnau), India",Lucknow (Lakhnau),India,17.8,3.9,20.1,13.3,68
+"Coimbatore, India",Coimbatore,India,17.6,3.9,22.1,13.2,65.1

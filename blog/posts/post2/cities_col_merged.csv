@@ -1,0 +1,101 @@
+city,country,population,population_year,pop_rank,city_for_match,location,country_clean,col_index,rent_index,groceries_index,restaurant_index,purchasing_power
+Shanghai,China,21909814,2020[1],1,Shanghai,"Shanghai, China",China,38.8,23.2,38.1,26,96
+Delhi,India,20591874,2021[2][3],2,Delhi,"Delhi, India",India,23,7,23,22.9,72.2
+Karachi,Pakistan,20382881,2023[4],3,Karachi,"Karachi, Pakistan",Pakistan,20.8,3.6,19.7,17.6,26.7
+Beijing,China,18960744,2020[1],4,Beijing,"Beijing, China",China,38,23.5,37.3,24.7,93.7
+Shenzhen,China,17444609,2020[1],5,Shenzhen,"Shenzhen, China",China,37,18.9,39.4,24.2,109.1
+Guangzhou,China,16096724,2020[1],7,Guangzhou,"Guangzhou, China",China,36.2,13.3,42.5,22.9,106.1
+Istanbul,Turkey,15701602,2024[7],9,Istanbul,"Istanbul, Turkey",Turkey,43.8,21.8,41.7,46.8,59.8
+Bangalore,India,14254786,2021[8],10,Bangalore,"Bangalore, India",India,21.9,9.4,25.4,19,116.6
+Tokyo,Japan,14246219,2025[9],11,Tokyo,"Tokyo, Japan",Japan,54.2,25.8,62.9,35.4,117.8
+Ho Chi Minh City,Vietnam,14002598,2025[10],12,Ho Chi Minh City,"Ho Chi Minh City, Vietnam",Vietnam,28.2,12.9,32.4,16.7,42.5
+Chengdu,China,13568357,2020[1],13,Chengdu,"Chengdu, China",China,28,9.2,33.7,20.9,108.7
+Moscow,Russia,13274285,2025[11],14,Moscow,"Moscow, Russia",Russia,47.5,34.1,40.7,47.3,81.4
+Mumbai,India,13127825,2021[12][2],15,Mumbai,"Mumbai, India",India,26.3,18.5,25.8,24.6,61.2
+Lahore,Pakistan,13004135,2023[13],16,Lahore,"Lahore, Pakistan",Pakistan,20.3,3.6,17.9,19.7,26
+São Paulo,Brazil,11895578,2024[14],17,São Paulo,"Sao Paulo, Brazil",NA,36.8,16.4,37.3,33.6,53.4
+Jakarta,Indonesia,10562088,2020[15],19,Jakarta,"Jakarta, Indonesia",Indonesia,29.8,12.5,36.5,18.2,40.6
+Wuhan,China,10494879,2020[1],20,Wuhan,"Wuhan, China",China,30,8.3,34,20.5,110.7
+Lima,Peru,10353700,2025[16],21,Lima,"Lima, Peru",Peru,35.5,14.3,40.2,29,47.3
+Dhaka,Bangladesh,10278882,2022[17],22,Dhaka,"Dhaka, Bangladesh",Bangladesh,25.3,3.8,29.4,19.9,39.3
+Hyderabad,India,10269000,2021[19],23,Hyderabad,"Hyderabad, India",India,21.7,6.3,23.8,19.7,154.4
+Cairo,Egypt,9801536,2023[20],24,Cairo,"Cairo, Egypt",Egypt,23.2,5.7,23.4,22.6,23.4
+Chennai,India,9722974,2021[21],25,Chennai,"Chennai, India",India,20.7,5,24.6,15.5,110.7
+Chongqing,China,9580810,2020[1],27,Chongqing,"Chongqing, China",China,27.2,7.7,33.7,20,107.2
+Seoul,South Korea,9315066,2025[22],29,Seoul,"Seoul, South Korea",South Korea,68.2,23,81.4,42.6,130
+Hangzhou,China,9236032,2020[1],30,Hangzhou,"Hangzhou, China",China,35.1,13.3,38.6,24.8,102.5
+Mexico City,Mexico,9209944,2020[23],31,Mexico City,"Mexico City, Mexico",Mexico,45.9,28.1,49.9,48.6,48.6
+London,United Kingdom,9089736,2024[25],32,London,"London, United Kingdom",United Kingdom,87.5,70.1,68.9,89.7,117.5
+Tehran,Iran,9039000,2021[24],34,Tehran,"Tehran, Iran",Iran,23.1,11.4,22.3,16.6,24
+Bangkok,Thailand,8890112,2025[26],35,Bangkok,"Bangkok, Thailand",Thailand,41.4,19.6,45.2,29.2,50.9
+Hanoi,Vietnam,8807523,2024[28],37,Hanoi,"Hanoi, Vietnam",Vietnam,28.4,9.8,34.1,18.5,46.1
+New York City,United States,8584629,2025[29],38,New York,"New York, NY, United States",United States,100,100,100,100,100
+Ahmedabad,India,8253226,2021[30],39,Ahmedabad,"Ahmedabad, India",India,21.2,4.4,24,20.3,67.4
+Baghdad,Iraq,7837463,2024[32],40,Baghdad,"Baghdad, Iraq",Iraq,33.8,10.9,29.7,31.4,50.4
+Bogotá,Colombia,7732161,2020[31],41,Bogotá,"Bogota, Colombia",NA,32.8,12.5,34,28.5,39.5
+Surat,India,7567538,2021[33],42,Surat,"Surat, India",India,18.7,7.2,22.1,16.4,55.8
+Hong Kong,China,7527500,2025[34],43,Hong Kong,"Hong Kong, Hong Kong (China)",Hong Kong (China),75.2,63.1,75.1,51.1,91.6
+Nanjing,China,7519814,2020[1],44,Nanjing,"Nanjing, China",China,30.6,11,33.8,21.7,107.2
+Riyadh,Saudi Arabia,6924566,2022[35],46,Riyadh,"Riyadh, Saudi Arabia",Saudi Arabia,48.4,25.5,45.7,39.2,119.5
+Rio de Janeiro,Brazil,6729894,2022[36],47,Rio de Janeiro,"Rio de Janeiro, Brazil",Brazil,32.9,11.9,31.7,30.1,37.8
+Zhengzhou,China,6461013,2020[1],48,Zhengzhou,"Hangzhou, China",NA,35.1,13.3,38.6,24.8,102.5
+Singapore,Singapore,6142180,2025[37],50,Singapore,"Singapore, Singapore",Singapore,87.7,73.1,77.3,55.5,105.5
+Kolkata,India,6112874,2020[38],51,Kolkata,"Kolkata, India",India,19.2,4,23.3,14.7,69.9
+Suzhou,China,5892892,2020[1],52,Suzhou,"Suzhou, China",China,36.6,10.7,40,31.4,104
+Saint Petersburg,Russia,5652922,2025[39],53,Saint Petersburg,"Saint Petersburg, Russia",Russia,40.3,18.9,37.4,37.2,74.5
+Changsha,China,5630256,2020[1],54,Changsha,"Changsha, China",China,31.6,6.6,38.4,21.2,106.6
+Abidjan,Côte d'Ivoire,5616633,2021[40],55,Abidjan,"Abidjan, Ivory Coast",Ivory Coast,45.2,22.3,41.3,40.9,12.5
+Dar es Salaam,Tanzania,5383728,2022[42],57,Dar es Salaam,"Dar es Salaam, Tanzania",Tanzania,28.8,13.3,28,23,25
+Alexandria,Egypt,5362517,2023[20],58,Alexandria,"Alexandria, Egypt",Egypt,21.6,3.1,22.6,18.6,19
+Santiago,Chile,5283656,2023[43],59,Santiago,"Santiago, Chile",Chile,41.9,14.1,43.6,44.7,57.7
+Ankara,Turkey,5186002,2022[45],62,Ankara,"Ankara, Turkey",Turkey,38.9,14.9,39.2,39.3,63.9
+Johannesburg,South Africa,4803262,2022[46],66,Johannesburg,"Johannesburg, South Africa",South Africa,40.4,13.5,34.9,38.5,108.9
+Cape Town,South Africa,4772846,2022[47],67,Cape Town,"Cape Town, South Africa",South Africa,39.6,21.4,35.4,38.2,103.3
+Nairobi,Kenya,4750100,2023[48][49],68,Nairobi,"Nairobi, Kenya",Kenya,32,11.1,33.5,30.3,35.3
+Nanning,China,4582703,2020[1],73,Nanning,"Nanjing, China",NA,30.6,11,33.8,21.7,107.2
+Giza,Egypt,4458135,2023[20],75,Giza,"Giza, Egypt",Egypt,20.9,4.7,20.4,18.1,20
+Jaipur,India,4067826,2021[55],81,Jaipur,"Jaipur, India",India,19,4,21.2,15.4,75.5
+New Taipei City,Taiwan,4030954,2020[58],84,New Taipei City,"New Taipei City, Taiwan",Taiwan,51.1,17.4,62.5,25.5,75
+Berlin,Germany,3913644,2024[66],87,Berlin,"Berlin, Germany",Germany,70,36.2,63,68.1,126.1
+Pune,India,3891823,2021[59],88,Pune,"Pune, India",India,22.8,7.3,25.9,21.2,128.7
+Los Angeles,United States,3869089,2025[62],91,Los Angeles,"Los Angeles, CA, United States",United States,81.5,64.6,87.1,88.2,117
+Fuzhou,China,3723454,2020[1],100,Fuzhou,"Suzhou, China",NA,36.6,10.7,40,31.4,104
+Nagpur,India,3622000,2026[67],103,Nagpur,"Jaipur, India",NA,19,4,21.2,15.4,75.5
+Dubai,United Arab Emirates,3570099,2023[68],105,Dubai,"Dubai, United Arab Emirates",United Arab Emirates,61.8,56.9,46.7,66.8,131.3
+Madrid,Spain,3506730,2025[69],107,Madrid,"Madrid, Spain",Spain,60,36.2,56.1,63.4,104.1
+Algiers,Algeria,3496000,2026[70],108,Algiers,"Algiers, Algeria",Algeria,29.2,5.3,35.8,18.3,36.3
+Addis Ababa,Ethiopia,3480229,2022[71],109,Addis Ababa,"Addis Ababa, Ethiopia",Ethiopia,42.6,22.1,45.9,24.1,11.3
+Toronto,Canada,3271830,2025[73],112,Toronto,"Toronto, Canada",Canada,67.5,40.6,71.1,69.2,121.2
+Casablanca,Morocco,3218036,2024[75],115,Casablanca,"Casablanca, Morocco",Morocco,35.2,13.3,35.9,30.3,43
+Kanpur,India,3203932,2021[77],117,Kanpur,"Jaipur, India",NA,19,4,21.2,15.4,75.5
+Changzhou,China,3187315,2020[1],118,Changzhou,"Hangzhou, China",NA,35.1,13.3,38.6,24.8,102.5
+Buenos Aires,Argentina,3120612,2022[79],120,Buenos Aires,"Buenos Aires, Argentina",Argentina,48.8,16.3,46.6,63.1,45.4
+Tashkent,Uzbekistan,3112748,2025[80],121,Tashkent,"Tashkent, Uzbekistan",Uzbekistan,29.4,14.1,31.5,26.4,51.7
+Quezon City,Philippines,3084270,2024[81],123,Quezon City,"Quezon City, Philippines",Philippines,32.4,8.8,38.8,20.9,44.7
+Da Nang,Vietnam,3065628,2024[28],124,Da Nang,"Da Nang, Vietnam",Vietnam,26.3,10.8,31.6,16,36.5
+Lanzhou,China,3012577,2020[1],125,Lanzhou,"Hangzhou, China",NA,35.1,13.3,38.6,24.8,102.5
+Nantong,China,2987600,2020[82],126,Nantong,"Nanjing, China",NA,30.6,11,33.8,21.7,107.2
+Brasília,Brazil,2982818,2024[84],127,Brasília,"Brasilia, Brazil",NA,32,11.2,30.9,31.1,58.7
+Surabaya,Indonesia,2972801,2022[83],128,Surabaya,"Surabaya, Indonesia",Indonesia,27.8,12.1,35.9,14.5,30.1
+Kyiv,Ukraine,2952301,2022[85],129,Kyiv,"Lviv, Ukraine",NA,29.5,11,29.6,27.4,53.9
+İzmir,Turkey,2948160,2022[45],130,İzmir,"Izmir, Turkey",NA,40.6,14.4,41.8,36.6,61.4
+Huizhou,China,2900113,2020[1],132,Huizhou,"Suzhou, China",NA,36.6,10.7,40,31.4,104
+Xuzhou,China,2845552,2020[1],134,Xuzhou,"Suzhou, China",NA,36.6,10.7,40,31.4,104
+Taichung,Taiwan,2820787,2020[58],135,Taichung,"Taichung, Taiwan",Taiwan,47.6,12.5,62.3,27.2,88.4
+Osaka,Japan,2808624,2025[9],137,Osaka,"Osaka, Japan",Japan,43.5,18.1,50.4,29.9,125.9
+Thane,India,2771000,2026[87],138,Thane,"Thane, India",India,20.7,7.7,21.5,19.7,48.8
+Rome,Italy,2745062,2026[88],141,Rome,"Rome, Italy",Italy,63.4,34.9,64.9,63.5,84.3
+Chicago,United States,2731585,2025[89],143,Chicago,"Chicago, IL, United States",United States,76,55.2,82.6,81.6,157.6
+Bhopal,India,2707000,2026[90],144,Bhopal,"Bhopal, India",India,19.2,3.4,23.2,16.4,63.9
+Guayaquil,Ecuador,2665392,2022[91],146,Guayaquil,"Guayaquil, Ecuador",Ecuador,36.6,11.6,35.1,35.9,41
+Baku,Azerbaijan,2640400,2025[92],147,Baku,"Baku, Azerbaijan",Azerbaijan,32.3,11,30.9,36.4,45.1
+Taipei,Taiwan,2602418,2020[58],148,Taipei,"Taipei, Taiwan",Taiwan,54.7,19.6,67.6,36.1,81.5
+Patna,India,2534000,2026[94],153,Patna,"Patna, India",India,19.4,2.6,20.4,16.1,60.3
+Bandung,Indonesia,2527854,2021[83],154,Bandung,"Bandung, Indonesia",Indonesia,24.9,5.6,34.3,13.8,31.9
+Medellín,Colombia,2519592,2020[95],155,Medellín,"Medellin, Colombia",NA,34.4,14.5,34.2,30.2,39.4
+Indore,India,2463588,2020[97],158,Indore,"Indore, India",India,18.4,4.3,21.2,13.2,69.1
+Fortaleza,Brazil,2428708,2022[99],160,Fortaleza,"Fortaleza, Brazil",Brazil,31.5,7.1,29.5,28.8,43.4
+Salvador,Brazil,2417678,2022[100],161,Salvador,"Salvador, Brazil",Brazil,31.1,9.4,29,29.9,34.4
+Houston,United States,2397315,2025[101],162,Houston,"Houston, TX, United States",United States,63.9,42.5,65.8,72.2,159.8
+Almaty,Kazakhstan,2348103,2026[105],170,Almaty,"Almaty, Kazakhstan",Kazakhstan,33,15.7,31.9,35.5,55.7
+Belo Horizonte,Brazil,2315560,2022[107],174,Belo Horizonte,"Belo Horizonte, Brazil",Brazil,31.6,9.5,29.7,27.6,40.4

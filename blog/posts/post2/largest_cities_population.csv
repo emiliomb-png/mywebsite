@@ -1,0 +1,251 @@
+city,country,population,population_year,pop_rank,city_for_match
+Shanghai,China,21909814,2020[1],1,Shanghai
+Delhi,India,20591874,2021[2][3],2,Delhi
+Karachi,Pakistan,20382881,2023[4],3,Karachi
+Beijing,China,18960744,2020[1],4,Beijing
+Shenzhen,China,17444609,2020[1],5,Shenzhen
+Kinshasa,DR Congo,16316000,2023[5],6,Kinshasa
+Guangzhou,China,16096724,2020[1],7,Guangzhou
+Lagos,Nigeria,15946000,2023[6],8,Lagos
+Istanbul,Turkey,15701602,2024[7],9,Istanbul
+Bangalore,India,14254786,2021[8],10,Bangalore
+Tokyo,Japan,14246219,2025[9],11,Tokyo
+Ho Chi Minh City,Vietnam,14002598,2025[10],12,Ho Chi Minh City
+Chengdu,China,13568357,2020[1],13,Chengdu
+Moscow,Russia,13274285,2025[11],14,Moscow
+Mumbai,India,13127825,2021[12][2],15,Mumbai
+Lahore,Pakistan,13004135,2023[13],16,Lahore
+São Paulo,Brazil,11895578,2024[14],17,São Paulo
+Tianjin,China,11052404,2020[1],18,Tianjin
+Jakarta,Indonesia,10562088,2020[15],19,Jakarta
+Wuhan,China,10494879,2020[1],20,Wuhan
+Lima,Peru,10353700,2025[16],21,Lima
+Dhaka,Bangladesh,10278882,2022[17],22,Dhaka
+Hyderabad,India,10269000,2021[19],23,Hyderabad
+Cairo,Egypt,9801536,2023[20],24,Cairo
+Chennai,India,9722974,2021[21],25,Chennai
+Dongguan,China,9644871,2020[1],26,Dongguan
+Chongqing,China,9580810,2020[1],27,Chongqing
+Xi’an,China,9392938,2020[1],28,Xi’an
+Seoul,South Korea,9315066,2025[22],29,Seoul
+Hangzhou,China,9236032,2020[1],30,Hangzhou
+Mexico City,Mexico,9209944,2020[23],31,Mexico City
+London,United Kingdom,9089736,2024[25],32,London
+Foshan,China,9042509,2020[1],33,Foshan
+Tehran,Iran,9039000,2021[24],34,Tehran
+Bangkok,Thailand,8890112,2025[26],35,Bangkok
+Luanda,Angola,8816297,2024[27],36,Luanda
+Hanoi,Vietnam,8807523,2024[28],37,Hanoi
+New York City,United States,8584629,2025[29],38,New York
+Ahmedabad,India,8253226,2021[30],39,Ahmedabad
+Baghdad,Iraq,7837463,2024[32],40,Baghdad
+Bogotá,Colombia,7732161,2020[31],41,Bogotá
+Surat,India,7567538,2021[33],42,Surat
+Hong Kong,China,7527500,2025[34],43,Hong Kong
+Nanjing,China,7519814,2020[1],44,Nanjing
+Shenyang,China,7026358,2020[1],45,Shenyang
+Riyadh,Saudi Arabia,6924566,2022[35],46,Riyadh
+Rio de Janeiro,Brazil,6729894,2022[36],47,Rio de Janeiro
+Zhengzhou,China,6461013,2020[1],48,Zhengzhou
+Qingdao,China,6165279,2020[1],49,Qingdao
+Singapore,Singapore,6142180,2025[37],50,Singapore
+Kolkata,India,6112874,2020[38],51,Kolkata
+Suzhou,China,5892892,2020[1],52,Suzhou
+Saint Petersburg,Russia,5652922,2025[39],53,Saint Petersburg
+Changsha,China,5630256,2020[1],54,Changsha
+Abidjan,Côte d'Ivoire,5616633,2021[40],55,Abidjan
+Jinan,China,5452335,2020[41],56,Jinan
+Dar es Salaam,Tanzania,5383728,2022[42],57,Dar es Salaam
+Alexandria,Egypt,5362517,2023[20],58,Alexandria
+Santiago,Chile,5283656,2023[43],59,Santiago
+Kunming,China,5273144,2020[44],60,Kunming
+Harbin,China,5242897,2020[1],61,Harbin
+Ankara,Turkey,5186002,2022[45],62,Ankara
+Shijiazhuang,China,5090440,2020[1],63,Shijiazhuang
+Hefei,China,5055978,2020[1],64,Hefei
+Dalian,China,4913879,2020[1],65,Dalian
+Johannesburg,South Africa,4803262,2022[46],66,Johannesburg
+Cape Town,South Africa,4772846,2022[47],67,Cape Town
+Nairobi,Kenya,4750100,2023[48][49],68,Nairobi
+Haiphong,Vietnam,4664124,2024[28],69,Haiphong
+Kano,Nigeria,4648400,2022[50],70,Kano
+Xiamen,China,4617251,2020[1],71,Xiamen
+Yangon,Myanmar,4584622,2024[51],72,Yangon
+Nanning,China,4582703,2020[1],73,Nanning
+Changchun,China,4557356,2020[1],74,Changchun
+Giza,Egypt,4458135,2023[20],75,Giza
+Kabul,Afghanistan,4434600,2020[52],76,Kabul
+Taiyuan,China,4303673,2020[1],77,Taiyuan
+eThekwini (Durban),South Africa,4239901,2022[53],78,eThekwini (Durban)
+Bamako,Mali,4227569,2022[54],79,Bamako
+Can Tho,Vietnam,4199824,2024[28],80,Can Tho
+Jaipur,India,4067826,2021[55],81,Jaipur
+Ekurhuleni,South Africa,4066691,2022[56],82,Ekurhuleni
+Tshwane (Pretoria),South Africa,4040315,2022[57],83,Tshwane (Pretoria)
+New Taipei City,Taiwan,4030954,2020[58],84,New Taipei City
+Guiyang,China,4021275,2020[1],85,Guiyang
+Wuxi,China,3956985,2020[1],86,Wuxi
+Berlin,Germany,3913644,2024[66],87,Berlin
+Pune,India,3891823,2021[59],88,Pune
+Shantou,China,3890169,2020[1],89,Shantou
+Ibadan,Nigeria,3875000,2023[60][61],90,Ibadan
+Los Angeles,United States,3869089,2025[62],91,Los Angeles
+Ürümqi,China,3864136,2020[1],92,Ürümqi
+Zhongshan,China,3841873,2020[1],93,Zhongshan
+Abuja,Nigeria,3840000,2023[60],94,Abuja
+Douala,Cameroon,3816500,2025[63],95,Douala
+Lucknow,India,3790274,2021[64],96,Lucknow
+Yaoundé,Cameroon,3762900,2025[63],97,Yaoundé
+Yokohama,Japan,3754840,2025[9],98,Yokohama
+Ningbo,China,3731203,2020[1],99,Ningbo
+Fuzhou,China,3723454,2020[1],100,Fuzhou
+Jeddah,Saudi Arabia,3712917,2022[35],101,Jeddah
+Faisalabad,Pakistan,3691999,2023[65],102,Faisalabad
+Nagpur,India,3622000,2026[67],103,Nagpur
+Mashhad,Iran,3619000,2021[24],104,Mashhad
+Dubai,United Arab Emirates,3570099,2023[68],105,Dubai
+Nanchang,China,3518975,2020[1],106,Nanchang
+Madrid,Spain,3506730,2025[69],107,Madrid
+Algiers,Algeria,3496000,2026[70],108,Algiers
+Addis Ababa,Ethiopia,3480229,2022[71],109,Addis Ababa
+Port Harcourt,Nigeria,3480000,2023[60],110,Port Harcourt
+Conakry,Guinea,3407327,2025[72],111,Conakry
+Toronto,Canada,3271830,2025[73],112,Toronto
+Busan,South Korea,3235362,2025[74],113,Busan
+Chittagong,Bangladesh,3227246,2022[17],114,Chittagong
+Casablanca,Morocco,3218036,2024[75],115,Casablanca
+Ouagadougou,Burkina Faso,3204000,2023[76],116,Ouagadougou
+Kanpur,India,3203932,2021[77],117,Kanpur
+Changzhou,China,3187315,2020[1],118,Changzhou
+Pyongyang,North Korea,3133000,2022[78],119,Pyongyang
+Buenos Aires,Argentina,3120612,2022[79],120,Buenos Aires
+Tashkent,Uzbekistan,3112748,2025[80],121,Tashkent
+Incheon,South Korea,3093590,2025[74],122,Incheon
+Quezon City,Philippines,3084270,2024[81],123,Quezon City
+Da Nang,Vietnam,3065628,2024[28],124,Da Nang
+Lanzhou,China,3012577,2020[1],125,Lanzhou
+Nantong,China,2987600,2020[82],126,Nantong
+Brasília,Brazil,2982818,2024[84],127,Brasília
+Surabaya,Indonesia,2972801,2022[83],128,Surabaya
+Kyiv,Ukraine,2952301,2022[85],129,Kyiv
+İzmir,Turkey,2948160,2022[45],130,İzmir
+Kumasi,Ghana,2907000,2017[86],131,Kumasi
+Huizhou,China,2900113,2020[1],132,Huizhou
+Mbuji-Mayi,DR Congo,2892000,2023[5],133,Mbuji-Mayi
+Xuzhou,China,2845552,2020[1],134,Xuzhou
+Taichung,Taiwan,2820787,2020[58],135,Taichung
+Lubumbashi,DR Congo,2812000,2023[5],136,Lubumbashi
+Osaka,Japan,2808624,2025[9],137,Osaka
+Thane,India,2771000,2026[87],138,Thane
+Kaohsiung,Taiwan,2765932,2020[58],139,Kaohsiung
+Zibo,China,2750312,2020[1],140,Zibo
+Rome,Italy,2745062,2026[88],141,Rome
+Linyi,China,2743843,2020[1],142,Linyi
+Chicago,United States,2731585,2025[89],143,Chicago
+Bhopal,India,2707000,2026[90],144,Bhopal
+Gazipur,Bangladesh,2674697,2022[17],145,Gazipur
+Guayaquil,Ecuador,2665392,2022[91],146,Guayaquil
+Baku,Azerbaijan,2640400,2025[92],147,Baku
+Taipei,Taiwan,2602418,2020[58],148,Taipei
+Damascus,Syria,2584771,2023[citation needed],149,Damascus
+Wenzhou,China,2582017,2020[1],150,Wenzhou
+Tangshan,China,2549968,2020[1],151,Tangshan
+Sanaa,Yemen,2545000,2017[93],152,Sanaa
+Patna,India,2534000,2026[94],153,Patna
+Bandung,Indonesia,2527854,2021[83],154,Bandung
+Medellín,Colombia,2519592,2020[95],155,Medellín
+Gujranwala,Pakistan,2511118,2023[96],156,Gujranwala
+Bekasi,Indonesia,2468448,2021[83],157,Bekasi
+Indore,India,2463588,2020[97],158,Indore
+Medan,Indonesia,2435252,2020[98],159,Medan
+Fortaleza,Brazil,2428708,2022[99],160,Fortaleza
+Salvador,Brazil,2417678,2022[100],161,Salvador
+Houston,United States,2397315,2025[101],162,Houston
+Omdurman,Sudan,2395159,2022[102],163,Omdurman
+Agra,India,2386000,2026[103],164,Agra
+Mecca,Saudi Arabia,2385509,2022[35],165,Mecca
+Hohhot,China,2373399,2020[1],166,Hohhot
+Daegu,South Korea,2363643,2025[74],167,Daegu
+Visakhapatnam,India,2358412,2021[104],168,Visakhapatnam
+Haikou,China,2349239,2020[1],169,Haikou
+Almaty,Kazakhstan,2348103,2026[105],170,Almaty
+Nagoya,Japan,2345892,2025[9],171,Nagoya
+Shaoxing,China,2333080,2020[1],172,Shaoxing
+Mogadishu,Somalia,2330700,2019[106],173,Mogadishu
+Belo Horizonte,Brazil,2315560,2022[107],174,Belo Horizonte
+Yantai,China,2311885,2020[1],175,Yantai
+Accra,Ghana,2291352,2023[108],176,Accra
+Rawalpindi,Pakistan,2284014,2023[109],177,Rawalpindi
+Phnom Penh,Cambodia,2281951,2019[110],178,Phnom Penh
+Manaus,Brazil,2279686,2024[112],179,Manaus
+Taoyuan,Taiwan,2268807,2020[58],180,Taoyuan
+Cali,Colombia,2264427,2020[111],181,Cali
+Luoyang,China,2230661,2020[1],182,Luoyang
+Lusaka,Zambia,2212301,2022[113],183,Lusaka
+Zhuhai,China,2207090,2020[1],184,Zhuhai
+Liuzhou,China,2204841,2020[1],185,Liuzhou
+Aleppo,Syria,2203025,2023[citation needed],186,Aleppo
+Lomé,Togo,2188376,2022[114],187,Lomé
+Isfahan,Iran,2178000,2021[24],188,Isfahan
+Multan,Pakistan,2169915,2023[115],189,Multan
+Brazzaville,Republic of the Congo,2145783,2023[116],190,Brazzaville
+Havana,Cuba,2137847,2022[117],191,Havana
+Baotou,China,2104114,2020[118],192,Baotou
+Handan,China,2095134,2020[1],193,Handan
+Caracas,Venezuela,2089012,2019[119],194,Caracas
+Yangzhou,China,2067254,2020[1],195,Yangzhou
+Bursa,Turkey,2051464,2022[45],196,Bursa
+Paris,France,2047602,2026[120],197,Paris
+Vienna,Austria,2042036,2026[121],198,Vienna
+Weifang,China,1998405,2020[1],199,Weifang
+Minsk,Belarus,1995471,2023[122],200,Minsk
+Kuala Lumpur,Malaysia,1982112,2020[123],201,Kuala Lumpur
+Khartoum,Sudan,1974647,2023[124],202,Khartoum
+Khartoum Bahri,Sudan,1968601,2015[125],203,Khartoum Bahri
+Sapporo,Japan,1964034,2025[9],204,Sapporo
+Faridabad,India,1957869,2021[126],205,Faridabad
+Benin City,Nigeria,1953000,2023[60],206,Benin City
+Baoding,China,1940384,2020[1],207,Baoding
+Montreal,Canada,1915366,2025[73],208,Montreal
+Ghaziabad,India,1910118,2021[127],209,Ghaziabad
+Santa Cruz de la Sierra,Bolivia,1903398,2022[128],210,Santa Cruz de la Sierra
+Manila,Philippines,1902590,2024[129],211,Manila
+Tangerang,Indonesia,1895486,2020[130],212,Tangerang
+Depok,Indonesia,1893321,2021[131],213,Depok
+Tainan,Taiwan,1874917,2020[58],214,Tainan
+Hamburg,Germany,1862565,2024[66],215,Hamburg
+Warsaw,Poland,1861599,2024[132],216,Warsaw
+Davao City,Philippines,1848947,2024[133],217,Davao City
+Peshawar,Pakistan,1837741,2023[134],218,Peshawar
+Amman,Jordan,1812059,2015[135],219,Amman
+Tijuana,Mexico,1810645,2020[23],220,Tijuana
+Datong,China,1809505,2020[1],221,Datong
+Huai'an,China,1804611,2020[1],222,Huai'an
+Varanasi,India,1804000,2026[136],223,Varanasi
+Kampala,Uganda,1797722,2024[137],224,Kampala
+Jiangmen,China,1795459,2020[1],225,Jiangmen
+Ludhiana,India,1779796,2021[138],226,Ludhiana
+Adana,Turkey,1779463,2022[45],227,Adana
+Ganzhou,China,1778132,2020[1],228,Ganzhou
+Quito,Ecuador,1776364,2022[140],229,Quito
+Curitiba,Brazil,1773718,2022[139],230,Curitiba
+Monrovia,Liberia,1761032,2022[141],231,Monrovia
+Maracaibo,Venezuela,1752602,2019[142],232,Maracaibo
+Abu Dhabi,United Arab Emirates,1750000,2023[68],233,Abu Dhabi
+Kigali,Rwanda,1745555,2022[143],234,Kigali
+Barcelona,Spain,1731649,2025[69],235,Barcelona
+Pimpri-Chinchwad,India,1729359,2011[2],236,Pimpri-Chinchwad
+Caloocan,Philippines,1712945,2024[144],237,Caloocan
+Bucharest,Romania,1709458,2025[145],238,Bucharest
+Amritsar,India,1704000,2026[146],239,Amritsar
+Jining,China,1700054,2020[1],240,Jining
+Semarang,Indonesia,1688133,2022[83],241,Semarang
+Xiangyang,China,1686403,2020[1],242,Xiangyang
+Budapest,Hungary,1685209,2025[147],243,Budapest
+Navi Mumbai,India,1685000,2026[148],244,Navi Mumbai
+Belgrade,Serbia,1682720,2024[149],245,Belgrade
+Gaziantep,Turkey,1680723,2022[45][150],246,Gaziantep
+Xining,China,1677177,2020[1],247,Xining
+Zunyi,China,1675245,2020[1],248,Zunyi
+Palembang,Indonesia,1668848,2020[151],249,Palembang
+Vadodara,India,1666703,2011[2],250,Vadodara
