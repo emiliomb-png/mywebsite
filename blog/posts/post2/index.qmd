@@ -19,7 +19,7 @@ For each city, I calculated a "value score" or local purchasing power divided by
 
 When I ran the numbers, I found essentially no relationship between how big a city is and how expensive it is (see Figure 1). This correlation came out to -0.09, which is about as close to "no pattern" as real-world data gets. Some of the cheapest cities I measured (several mid-sized Indian cities) sit right alongside some of the world's largest metros in population, while a few smaller cities on my list were nearly as pricey as New York. The old assumption that scale drives up cost simply doesn't hold once I looked past a handful of famous outliers like Tokyo or Shanghai.
 
-![](figure1_bp2.png){width="500px" fig-align="center"}{#fig-1}
+![](figure1_bp2.png){#fig-1 width="500px" fig-align="center"}
 
 **India's mid-size tech hubs offer exceptional value**
 
