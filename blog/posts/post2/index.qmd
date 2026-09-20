@@ -6,9 +6,7 @@ categories:
   - cost of living
 ---
 
-![](cover_bp2.jpg){width="900px"}
-
-*Source: Von Deensel - Puerto Madero, Buenos Aires, CC BY 2.0*
+![](cover_bp2.jpg){#fig-Source: Von Deensel - Puerto Madero, Buenos Aires, CC BY 2.0 width="900px"}
 
 
 Big cities are assumed to cost more to live in. Tokyo, Shanghai and Delhi, surely all that scale drives prices up? I decided to test that assumption directly, and the answer turned out to be more interesting than a simple yes or no.
