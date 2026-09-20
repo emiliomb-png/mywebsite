@@ -34,9 +34,10 @@ My bottom 10 split into two distinct groups, and the difference matters a lot in
 
 The real outliers I found were Abidjan and Addis Ababa, scoring 0.28 and 0.27, considerably lower than everywhere else on the list. Here's the nuance I want to highlight: these cities aren't expensive by sticker price (their cost-of-living index is actually moderate). What drags their score down is very low local purchasing power. Wages are simply too low relative to even modest costs. This is a distinct problem from high prices, and it might call for a different response. Anyone setting compensation for expat staff, aid workers, or business travelers in these cities should recognize that "moderate local prices" doesn't mean affordability for the people who actually live there because local salaries aren't providing the cushion that similar price levels would provide elsewhere.
 
-![](figure3_bp2.png){#fig-3 width="500px" fig-align="center"}
+![](top10_worst_value.png){#fig-3 width="500px" fig-align="center"}
 
 **The bigger picture**
 
 This analysis seems to suggest that it may be inaccurate to treat "big city" and "expensive city" as synonyms. They're not the same axis at all. I'd argue that a better way to evaluate where money goes further (whether that is the result of relocation, international hiring, or just curiosity) is to look at purchasing power relative to cost, not cost in isolation. By that measure, some of the most attractive cities I found for stretching a dollar rarely make anyone's "expensive city" headlines.
 
+Full code, data, and README are available on GitHub: [cost-of-living-scraper](https://github.com/emiliomb-png/Cost-of-Living-Scraper)
