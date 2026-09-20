@@ -19,13 +19,13 @@ For each city, I calculated a "value score" or local purchasing power divided by
 
 When I ran the numbers, I found essentially no relationship between how big a city is and how expensive it is (see Figure 1). This correlation came out to -0.09, which is about as close to "no pattern" as real-world data gets. Some of the cheapest cities I measured (several mid-sized Indian cities) sit right alongside some of the world's largest metros in population, while a few smaller cities on my list were nearly as pricey as New York. The old assumption that scale drives up cost simply doesn't hold once I looked past a handful of famous outliers like Tokyo or Shanghai.
 
-![](figure1_bp2.png){width="500px"}
+![](figure1_bp2.png){width="500px" fig-align="center"}{#fig-1}
 
 **India's mid-size tech hubs offer exceptional value**
 
 The top of my best-value list was dominated by Indian cities: Hyderabad topped the list with a value score of 7.1, followed by Pune, Chennai, and Bangalore all above 5 (see Figure 2). That means a typical local salary in Hyderabad buys roughly seven times more relative to living costs than the same ratio in a low-value city like Addis Ababa. Two Chinese cities, Chongqing and Chengdu, are also in my top 10. The takeaway here is that, for remote workers with location flexibility, employers setting cost-of-living-adjusted salaries, or companies scouting new office locations, these cities represent a genuinely underrated combination of large talent pools and strong purchasing power. This does not mean that they are just "cheap," but cheap relative to what people there actually earn.
 
-![](figure2_bp2.png){width="500px"}
+![](figure2_bp2.png){width="500px" fig-align="center"}{#fig-2}
 
 
 **"Worst value" hid two very different stories**
@@ -34,7 +34,7 @@ My bottom 10 split into two distinct groups, and the difference matters a lot in
 
 The real outliers I found were Abidjan and Addis Ababa, scoring 0.28 and 0.27, considerably lower than everywhere else on the list. Here's the nuance I want to highlight: these cities aren't expensive by sticker price (their cost-of-living index is actually moderate). What drags their score down is very low local purchasing power. Wages are simply too low relative to even modest costs. This is a distinct problem from high prices, and it might call for a different response. Anyone setting compensation for expat staff, aid workers, or business travelers in these cities should recognize that "moderate local prices" doesn't mean affordability for the people who actually live there because local salaries aren't providing the cushion that similar price levels would provide elsewhere.
 
-![](figure3_bp2.png){width="500px"}
+![](figure3_bp2.png){width="500px" fig-align="center"}{#fig-1}
 
 **The bigger picture**
 
