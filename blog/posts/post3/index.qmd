@@ -36,4 +36,4 @@ Both of the previously described forces would produce a very similar pattern to 
 
 The pattern of increased unemployment in tech jobs is consistent with generative AI's market launch, but it's important to highlight that this is a correlation with AI's arrival, not proof of it. Rate hikes and layoff corrections are at least as plausible an explanation. The most likely explanation is that all three forces are tangled together. Separating them will require a more in-depth analysis.
 
-Full code, data, and README are available on GitHub: xxx [cost-of-living-scraper](https://github.com/emiliomb-png/Cost-of-Living-Scraper)
+Full code, data, and README are available on GitHub:[AI and Jobs](https://github.com/emiliomb-png/AI-and-Jobs)
