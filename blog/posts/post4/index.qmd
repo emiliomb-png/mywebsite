@@ -36,4 +36,4 @@ It is important to remind ourselves here what that this is a descriptive rather 
 In terms of homicide, the analysis seems to suggest that the U.S. isn't Europe with a few bad states. Its typical state looks very different from Europe's typical country, and the gap has widened over two decades. The obvious economic explanations, wealth and inequality, seem to leave most of the gap unexplained. This raises interesting questions about the causes of this large gap. An analysis that explores this will require a more in-depth exploration of additional factors.
 
 
-Full code, data, and README are available on GitHub: [xxxx] [AI and Jobs](https://github.com/emiliomb-png/AI-and-Jobs)
+Full code, data, and README are available on GitHub: [Crime Comparison](https://github.com/emiliomb-png/Crime-Comparison)
