@@ -11,7 +11,7 @@ I wanted to see in which parts of Philadelphia crime was worse to identify the m
 
 On the crime map (see Figure 1), the darkest tracts (highest rates) cluster in a broad band through the middle of the city, including much of North Philadelphia, with more dark patches in West and Southwest Philadelphia. The lowest rates are mostly in the far Northeast and Northwest. Now look at the income map (see Figure 2), where darker also means higher. The lightest tracts (the lowest incomes) sit in that same central band. The highest incomes show up in the Northwest and Northeast, the areas that look calmest on the crime map. Overall both maps paint a suggestive picture: areas in Philadelphia with higher crime rates are associated with lower median household income.
 
-![](map_crime.png){#fig-1 width="700px" fig-align="center"}
+![](map_crime.png){#fig-1 width="700px" fig-align="center"} 
 ![](map_income.png){#fig-1 width="700px" fig-align="center"}
 
 Now, as an initial approximation to understanding the information from the previous two maps, I plotted the relationship between income and crime (see Figure 3). On this plot, each dot is a tract. Moving right means higher income, and moving up means more crime per resident. The red line shows the typical trend. The plot shows that, at the low end, tracts with incomes around \$20,000 average about 170 incidents per 1,000 residents a year. By roughly \$70,000, that falls to about 60, a drop of around two-thirds. Past \$70,000, the line goes flat. A tract at \$150,000 looks about the same as one at $80,000.
@@ -28,4 +28,4 @@ Though the previous figures point to a correlation between income and crime, it 
 
 Reported crime in Philadelphia is concentrated in lower-income parts of the city, and the drop-off is steepest at the bottom of the income scale. But it is important to remember that income is only part of the picture, and that busy commercial districts break the pattern. A more in-depth analysis could also look at the relationship between income and violent crime and compare it with overall crime to determine if the type of crime changes the results of this analysis. Including additional variables (like unemployment rates and public investment by tract) may provide additional insights to the pattern presented here.
 
-Full code, data, and README are available on GitHub: [Crime Comparison](https://github.com/emiliomb-png/Crime-Comparison) REVIEW
+Full code, data, and README are available on GitHub: [Crime in Philadelphia](https://github.com/emiliomb-png/Crime-in-Philadelphia)
