@@ -9,10 +9,14 @@ categories:
 
 I wanted to see in which parts of Philadelphia crime was worse to identify the most potentially dangerous parts of the city. So I mapped the data and tried to understand whether the pattern follows how much money households earn. To do this, I used Philadelphia Police Department incident reports from 2020 to 2024, covering every offense type, about 730,000 incidents in all. I averaged them to a typical year, then divided by each census tract’s population to get incidents per 1,000 residents. Census tracts are neighborhood-sized areas of a few thousand people, and using a rate keeps big and small areas comparable. For income, I used the Census Bureau’s median household income estimates for the same five years. I left out tracts with fewer than 500 residents, which left 387 tracts. Thirteen of those had no reliable income estimate.
 
-On the crime map (see Figure 1), the darkest tracts (highest rates) cluster in a broad band through the middle of the city, including much of North Philadelphia, with more dark patches in West and Southwest Philadelphia. The lowest rates are mostly in the far Northeast and Northwest. Now look at the income map (see Figure 2), where darker also means higher. The lightest tracts (the lowest incomes) sit in that same central band. The highest incomes show up in the Northwest and Northeast, the areas that look calmest on the crime map. Overall both maps paint a suggestive picture: areas in Philadelphia with higher crime rates are associated with lower median household income.
+On the crime map (see Figure 1), the darkest tracts (highest rates) cluster in a broad band through the middle of the city, including much of North Philadelphia, with more dark patches in West and Southwest Philadelphia. The lowest rates are mostly in the far Northeast and Northwest. Now look at the income map (see Figure 2), where darker also means higher. The lightest tracts (the lowest incomes) sit in that same central band.
 
-![](map_crime.png){#fig-1 width="700px" fig-align="center"} 
-![](map_income.png){#fig-1 width="700px" fig-align="center"}
+![](map_crime.png){#fig-scatterplot width="700px" fig-align="center"}
+The highest incomes show up in the Northwest and Northeast, the areas that look calmest on the crime map. Overall both maps paint a suggestive picture: areas in Philadelphia with higher crime rates are associated with lower median household income.
+
+![](map_income.png){#fig-scatterplot width="700px" fig-align="center"}
+
+
 
 Now, as an initial approximation to understanding the information from the previous two maps, I plotted the relationship between income and crime (see Figure 3). On this plot, each dot is a tract. Moving right means higher income, and moving up means more crime per resident. The red line shows the typical trend. The plot shows that, at the low end, tracts with incomes around \$20,000 average about 170 incidents per 1,000 residents a year. By roughly \$70,000, that falls to about 60, a drop of around two-thirds. Past \$70,000, the line goes flat. A tract at \$150,000 looks about the same as one at $80,000.
 
