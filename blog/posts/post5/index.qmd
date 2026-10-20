@@ -12,6 +12,7 @@ I wanted to see in which parts of Philadelphia crime was worse to identify the m
 On the crime map (see Figure 1), the darkest tracts (highest rates) cluster in a broad band through the middle of the city, including much of North Philadelphia, with more dark patches in West and Southwest Philadelphia. The lowest rates are mostly in the far Northeast and Northwest. Now look at the income map (see Figure 2), where darker also means higher. The lightest tracts (the lowest incomes) sit in that same central band.
 
 ![](map_crime.png){#fig-scatterplot width="700px" fig-align="center"}
+
 The highest incomes show up in the Northwest and Northeast, the areas that look calmest on the crime map. Overall both maps paint a suggestive picture: areas in Philadelphia with higher crime rates are associated with lower median household income.
 
 ![](map_income.png){#fig-scatterplot width="700px" fig-align="center"}
