@@ -8,15 +8,13 @@ categories:
 
 ```{=html}
 <style>
-table { border-collapse: collapse !important; }
-table thead,
 table thead tr,
 table thead th {
-  border-top: 2px solid currentColor !important;
-  border-bottom: 2px solid currentColor !important;
-}
-table tbody tr:first-child td {
-  border-top: 2px solid currentColor !important;
+  background-image: linear-gradient(currentColor, currentColor),
+                    linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-size: 100% 2px, 100% 2px;
+  background-position: top, bottom;
 }
 </style>
 ```
