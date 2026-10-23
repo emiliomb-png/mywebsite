@@ -120,4 +120,4 @@ At 25–30 the estimate is about 0.42; by 35 and 45 it reaches 0.51 and 0.55. Th
 Imagine photographing a family in the year Dad got a bonus, or Mom was laid off. That photo is long-run status plus luck. Luck in the variable you regress on dilutes the relationship and pulls the slope toward zero, so single-year parental income understates the IGE. Averaging years washes out much of the luck and leaves something closer to a family’s standard of living. 
 
 
-XXX Full code, data, and README are available on GitHub: [Crime in Philadelphia](https://github.com/emiliomb-png/Crime-in-Philadelphia)
+XXX Full code, data, and README are available on GitHub: [SQL Tutorial](https://github.com/emiliomb-png/SQL-Tutorial)
