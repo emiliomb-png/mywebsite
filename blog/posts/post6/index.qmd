@@ -6,6 +6,15 @@ categories:
   - intergenerational
 ---
 
+```{=html}
+<style>
+table thead th {
+  border-top: 2px solid currentColor !important;
+  border-bottom: 2px solid currentColor !important;
+}
+</style>
+```
+
 ![Source: Markus Winkler](cover.jpg){width="900px"}
 
 Since 1968, the Panel Study of Income Dynamics (PSID) has followed the same families, and then their children’s families. That makes it perfect for asking how much a parent’s income shapes a child’s. The catch, however, is that nothing in the data says “this is Ana’s mother.” You have to find the parents yourself, and SQL inside Python can be a useful tool for this type of analysis. What follows is a brief tutorial of how to do this.
