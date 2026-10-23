@@ -189,9 +189,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <style>
+table { border-collapse: collapse !important; }
+table thead,
+table thead tr,
 table thead th {
   border-top: 2px solid currentColor !important;
   border-bottom: 2px solid currentColor !important;
+}
+table tbody tr:first-child td {
+  border-top: 2px solid currentColor !important;
 }
 </style>
 <div class="quarto-figure quarto-figure-center">
