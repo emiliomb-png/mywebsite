@@ -189,13 +189,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <style>
-table thead tr,
 table thead th {
-  background-image: linear-gradient(currentColor, currentColor),
-                    linear-gradient(currentColor, currentColor);
-  background-repeat: no-repeat;
-  background-size: 100% 2px, 100% 2px;
-  background-position: top, bottom;
+  border-top: 3px solid currentColor !important;
+  border-bottom: 3px solid currentColor !important;
+  box-shadow: 0 -3px 0 0 currentColor, 0 3px 0 0 currentColor !important;
+  position: relative;
+  z-index: 1;
+}
+table thead {
+  border-top: 3px solid currentColor !important;
+  border-bottom: 3px solid currentColor !important;
 }
 </style>
 <div class="quarto-figure quarto-figure-center">
