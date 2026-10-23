@@ -188,19 +188,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<style>
-table thead th {
-  border-top: 3px solid currentColor !important;
-  border-bottom: 3px solid currentColor !important;
-  box-shadow: 0 -3px 0 0 currentColor, 0 3px 0 0 currentColor !important;
-  position: relative;
-  z-index: 1;
-}
-table thead {
-  border-top: 3px solid currentColor !important;
-  border-bottom: 3px solid currentColor !important;
-}
-</style>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="cover.jpg" class="img-fluid figure-img" width="900"></p>
@@ -240,25 +227,24 @@ table thead {
 <p><strong>Step 4: How sticky is income?</strong></p>
 <p>Regress log child income on log parent income. The slope is the intergenerational elasticity (IGE): 0.46 means children of parents earning 10% more earn about 4.6% more.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>fit <span class="op">=</span> sm.OLS(np.log(d[y]), sm.add_constant(np.log(d[x]))).fit()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<p>Same 3,115 children in every cell (see table below).</p>
 <table class="caption-top table">
 <thead>
-<tr class="header">
-<th>Parent income</th>
-<th>Child: single year</th>
-<th>Child: multi-year</th>
+<tr class="header" style="border-top:3px solid black; border-bottom:3px solid black;">
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">Parent income</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">Child: single year</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">Child: multi-year</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Single year</td>
-<td>0.410</td>
-<td>0.386</td>
+<td style="padding: 6px">Single year</td>
+<td style="padding: 6px">0.410</td>
+<td style="padding: 6px">0.386</td>
 </tr>
-<tr class="even">
-<td>Multi-year</td>
-<td>0.494</td>
-<td>0.462</td>
+<tr class="even" style="border-bottom:3px solid black;">
+<td style="padding: 6px">Multi-year</td>
+<td style="padding: 6px">0.494</td>
+<td style="padding: 6px">0.462</td>
 </tr>
 </tbody>
 </table>
@@ -267,31 +253,31 @@ table thead {
 <p>Now use child income at a single age (parents: multi-year; see table below):</p>
 <table class="caption-top table">
 <thead>
-<tr class="header">
-<th>Child age</th>
-<th>25</th>
-<th>30</th>
-<th>35</th>
-<th>40</th>
-<th>45</th>
+<tr class="header" style="border-top:3px solid black; border-bottom:3px solid black;">
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">Child age</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">25</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">30</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">35</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">40</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; padding: 6px;">45</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>IGE</td>
-<td>0.428</td>
-<td>0.419</td>
-<td>0.512</td>
-<td>0.452</td>
-<td>0.550</td>
+<td style="padding: 6px">IGE</td>
+<td style="padding: 6px">0.428</td>
+<td style="padding: 6px">0.419</td>
+<td style="padding: 6px">0.512</td>
+<td style="padding: 6px">0.452</td>
+<td style="padding: 6px">0.550</td>
 </tr>
-<tr class="even">
-<td>Mean income</td>
-<td>$61,427</td>
-<td>$70,254</td>
-<td>$84,253</td>
-<td>$90,567</td>
-<td>$98,179</td>
+<tr class="even" style="border-bottom:3px solid black;">
+<td style="padding: 6px">Mean income</td>
+<td style="padding: 6px">$61,427</td>
+<td style="padding: 6px">$70,254</td>
+<td style="padding: 6px">$84,253</td>
+<td style="padding: 6px">$90,567</td>
+<td style="padding: 6px">$98,179</td>
 </tr>
 </tbody>
 </table>
