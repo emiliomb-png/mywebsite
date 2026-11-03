@@ -34,4 +34,4 @@ So, did the campaign work? Yes. About 1.25% of customers who received the men’
 One last point: statistically real isn’t the same as profitable. Whether the extra purchases cover the campaign’s cost is a separate question.
 
 
-XXX Full code, data, and README are available on GitHub: [Email campaign](https://github.com/emiliomb-png/Email-campaign)
+Full code, data, and README are available on GitHub: [Email campaign](https://github.com/emiliomb-png/Email-campaign)
