@@ -33,4 +33,4 @@ The previous results suggest that a more sophisticated model still did not relia
 It is also worth noting that this test has limits. It covers only 17 periods in one stretch of market conditions, and it uses a fixed list of large U.S. companies, so the results may not carry over to smaller firms or other markets. Still, the lesson holds: markets are hard to beat, and impressive-looking backtests deserve skepticism, especially when they rest on few observations.
 
 
-XXXX Full code, data, and README are available on GitHub: [Email campaign](https://github.com/emiliomb-png/Email-campaign)
+Full code, data, and README are available on GitHub: [Stock market prediction](https://github.com/emiliomb-png/Stock-Market-Prediction)
