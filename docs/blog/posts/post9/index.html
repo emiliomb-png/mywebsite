@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-11-15">
+<meta name="dcterms.date" content="2026-11-16">
 
 <title>Predicting Sotck Market Performance – Emilio Marquez</title>
 <style>
@@ -141,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">November 15, 2026</p>
+      <p class="date">November 16, 2026</p>
     </div>
   </div>
   
@@ -161,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p>Does intuition beat a computer prediction of stock market performance? To answer this question I participated in a classroom experiment in which each of 45 teams built two portfolios, each starting with $100,000 and held for two months. The first portfolio was built from pure intuition, that is, stocks the team expected to perform well and picked without formal analysis. The second portfolio was built using gradient boosting, a machine-learning method that works like a panel of many simple “experts,” each correcting the mistakes of the one before. The model studied past patterns, such as which stocks had been rising, which were volatile, and which had just dropped. It ranked a list of 95 large U.S. companies, and teams built their portfolios from the highest-ranked stocks.</p>
 <p>The intuition portfolios averaged about $101,200 (+1.2%) (see Figure 1). The model portfolios averaged about $103,100 (+3.1%) and beat the same team’s intuition portfolio in 30 of 45 cases. That sounds like a win, but the $1,900 gap is within what chance can produce: if the model had no real edge, a gap this large would appear about 1 time in 10. The model’s results were also more spread out, from about $87,000 to $121,000, so some of its edge came with extra risk.</p>
-<div id="fig-scatterplot" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center" width="600px">
+<div id="fig-scatterplot" class="quarto-float quarto-figure quarto-figure-center anchored" width="600px" data-fig-align="center">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-scatterplot-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="class_boxplot.png" id="fig-scatterplot" class="img-fluid quarto-figure quarto-figure-center anchored figure-img" width="600">
@@ -176,7 +176,7 @@ Figure&nbsp;1
 <p>To test the accuracy of the new model, I locked in the improved model, with no further tweaks, and tested it only on stock prices from 2024 to today, which it never saw during training. Then, I compared the improved model with four reference points: the original classroom experiment model, a simple momentum rule (buy the 10 stocks that have risen the most over the past year), an equal-weighted basket of the 95 large U.S. companies, and the S&amp;P 500. The three stock-picking strategies each chose 10 stocks on the same dates and held them for the same two-month periods, so the comparison is fair.</p>
 <p>Overall, the prediction was weak. A useful model should rank stocks so its favorites beat its least favorites. The improved model scored 0.015, where 0 means no skill. The original scored higher (0.062), so the added sophistication didn’t help. With only about 17 independent two-month periods, none of these scores is clearly distinguishable from luck.</p>
 <p>Investment, for its part, looked impressive but wasn’t reliable. The improved portfolio averaged 6.3% per two months versus about 3% for the S&amp;P 500, and $1 grew to $2.46 versus $1.62 (see Figure 2). But the momentum rule matched it almost exactly (6.1%), and one stretch starting in March 2026 delivered a 47% gain. Without it, the average falls to 3.8%, only slightly above the benchmarks. In a typical period, the model’s median return (2.1%) trailed both benchmarks. Its worst period lost 15%, versus 3% for the market. And its edge over every comparison could plausibly be zero.</p>
-<div id="fig-scatterplot" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center" width="700px">
+<div id="fig-scatterplot" class="quarto-float quarto-figure quarto-figure-center anchored" width="700px" data-fig-align="center">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-scatterplot-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="growth_comparison.png" id="fig-scatterplot" class="img-fluid quarto-figure quarto-figure-center anchored figure-img" width="700">
